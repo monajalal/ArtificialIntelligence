@@ -1,0 +1,115 @@
+import java.util.Scanner;
+
+public class CS302Shell {
+
+	public static double add(double a, double b){
+		return a+b;
+	}
+	public static double sub(double a, double b){
+		return a-b;
+	}
+	public static double mul(double a, double b){
+		return a*b;
+	}
+	public static double div(double a, double b){
+		return a/b;
+	}
+	public static int quo(double a, double b){
+		return (int) (a/b);
+	}
+	
+	public static int rem(double a, double b){
+		return (int) (a % b);
+	}
+	
+	
+	//
+	public static void main(String[] args){
+		System.out.println("Welcome to CS302Shell! Enter help for a list of commands or exit to end");
+		
+		
+		double a;
+		double b;
+		Scanner in= new Scanner(System.in);
+		while (true){
+			String command=in.nextLine();
+			//System.out.println(command);
+			switch (command){
+			case ("add"):{
+				a=in.nextDouble();
+				System.out.println(a);
+			    b=in.nextDouble();
+			    System.out.println(b);
+			    System.out.println(add(a,b));
+			}
+			break;
+			case ("sub"):{
+				a=in.nextDouble();
+			    b=in.nextDouble();
+			    System.out.println(sub(a,b));
+			}
+			break;
+			case ("mul"):{
+				a=in.nextDouble();
+			    b=in.nextDouble();
+			    System.out.println(mul(a,b));
+			}
+			break;
+			case ("div"):{
+				a=in.nextDouble();
+			    b=in.nextDouble();
+			    System.out.println(div(a,b));
+			}
+			break;
+			case ("quo"):{
+				a=in.nextDouble();
+			    b=in.nextDouble();
+			    System.out.println(quo(a,b));
+			}
+			break;
+			case ("rem"):{
+				a=in.nextDouble();
+			    b=in.nextDouble();
+			    System.out.println(rem(a,b));
+			}
+			break;
+			case ("decimal"):{
+				char ch= in.next().charAt(0);
+				if (ch!= 0x0){ //check to see if user has entered any character
+					System.out.println("Must include a character after decimal");
+				}
+				int ascii=(int) ch;
+				System.out.println(ascii);
+			}
+			break;
+			case ("help"):{
+				System.out.println("add i j   - return the sum of two integers         i+j");
+				System.out.println("sub i j   - return the difference between two integers  i-j");
+				System.out.println("mul i j   - return the product of two integers     i*j");
+				System.out.println("div i j   - return the division of  i/j (floating point result)");
+				System.out.println("quo i j   - return the quotient of  i/j (integer division)");
+				System.out.println("rem i j   - return the remainder of i/j (modulus)");
+				System.out.println("decimal a - return decimal value of (a), a is printable character");
+				System.out.println("help      - display this command listing");
+				System.out.println("exit      - exit application");
+			}
+				//
+			break;
+			case ("exit"):{
+				System.out.println("Good-Bye");
+				in.close();
+				return;
+			}
+			break;
+			default: break;
+			
+				
+		}
+			
+			
+		
+	}
+		//in.close();
+		//return;
+}
+}

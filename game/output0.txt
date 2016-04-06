@@ -1,0 +1,6 @@
+Player 1: 2
+Player 2: 8
+Player 1: 4
+Player 2: 1
+Player 1: 7
+Winner: Player 1

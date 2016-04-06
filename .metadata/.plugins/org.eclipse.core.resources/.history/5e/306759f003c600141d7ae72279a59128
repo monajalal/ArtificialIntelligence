@@ -1,0 +1,61 @@
+import java.util.ArrayList;
+
+
+public class findingStudent {
+	public static <E> boolean findMatch(Queue<E> myQ, stack<E> myS) throws EmptyStackException {
+        // declare the initial copies of stacks  and the return boolean "truth".
+        boolean truth = false;
+        stack<E> stackCopy = new stack<E>();
+        Queue<E> tempQueue = new Queue<E>();
+
+        // check if the queue/stack are either: null or empty.
+        if(myQ == null || myS == null)
+        {
+                throw new IllegalArgumentException();
+        }
+
+        if(myQ.isEmpty() || myS.isEmpty())
+        {
+                return false;
+        }
+
+        //Copies all of the values of the original stack to a copy of the stack.
+        //Doing this will reverse the order of the stack.
+        while(!myS.isEmpty())
+        {
+                stackCopy.push(myS.pop());
+        }
+
+        // goes through each item in the newly created stackCopy
+        while(!stackCopy.isEmpty())
+        {
+                // stores an item in the new stackCopy in a temporary variable.
+                E stackItem = stackCopy.pop();
+                //Goes through each value of the entire queue
+                while(!myQ.isEmpty())
+                {
+                        //stores the top-most value of the queue in a temporary variable.
+                        E queueItem = myQ.dequeue();
+                        // checks if the top-most value of the queue equals the value stored from the stack.
+                        if(stackItem.equals(queueItem))
+                        {
+                                truth = true;
+                        }
+                        // after checking, this adds the removed value of the original Queue into a copy of another queue called tempQueue
+                        tempQueue.enqueue(queueItem);
+                }
+                // pushes the stack item back into the original stack
+                // this adds it in the right order as the original
+                myS.push(stackItem);
+        }
+        // copies the contents of the temporary queue into the original queue
+        // all items are stored in the original order.
+        while(!tempQueue.isEmpty())
+        {
+                myQ.enqueue(tempQueue.dequeue());
+        }
+
+        return truth;
+}
+
+}

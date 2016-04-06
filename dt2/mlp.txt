@@ -1,0 +1,12 @@
+// This dataset comes from MONK'Problem Data Set. https://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems
+// first column is the class label, others are categorical attributes
+%%,+,-
+##,color,red,blue,green
+##,shape,square,circle
+##,size,big,small
++,red,square,big
++,blue,square,big
++,red,circle,big
+-,red,circle,small
+-,green,square,small
+-,green,square,big

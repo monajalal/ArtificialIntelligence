@@ -1,0 +1,53 @@
+
+public class findingStudent {
+
+	public static <E> boolean findMatch(SimpleQueue<E> myQ, SimpleStack<E> myS) {
+		SimpleQueue<E> tempQ;
+		SimpleStack<E> tempS;
+		qNumItems = 0;
+		E temp = null;
+
+		if(myQ.equals(null) || myS.equals(null)){
+			throw new IllegalArgumentException;
+		}
+		if(myQ.isEmpty() || myS.isEmpty()){
+			return false;
+		}
+
+		while(!myQ.isEmpty){
+			tempQ.enqueue(myQ.dequeue);
+			qNumItems++;
+		}
+
+		for(int i=0; i<qNumItems; i++){
+			temp = tempQ.dequeue();
+			myQ.enqueue(temp);
+			tempQ.enqueue(temp);
+		}
+
+		int sNumItems = 0;
+		while(!myS.isEmpty()){
+			tempS.push(myS.pop());
+			sNumItems++;
+
+			for(int i=0; i<qNumItems; i++){
+				temp = tempQ.dequeue();
+				tempQ.enqueue(temp);
+
+				if(tempS.peek()==temp){
+					for(int j=0; j<sNumItems; j++){
+						myS.push(tempS.pop());
+					}
+					return true;
+				}
+			}
+		}
+
+		fo(int i=0; i<sNumItems; i++){
+			myS.push(temp.pop());
+		}
+
+		return false;
+	}
+
+}

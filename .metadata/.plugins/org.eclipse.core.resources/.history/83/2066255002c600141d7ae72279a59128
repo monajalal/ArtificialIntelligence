@@ -1,0 +1,55 @@
+import java.util.ArrayList;
+
+
+public class findingStudent {
+	public static <E> boolean findMatch(SimpleQueue<E> myQ, SimpleStack<E> myS) {
+        // If myQ or myS is null, throw an IllegalArgumentException.
+        // If myQ or myS is empty, return false.
+        // Otherwise return true if and only if any object in myQ is also in myS.
+        // When the method finishes, the contents of myQ and myS should be the same as
+        // in they were originally.
+
+
+        // Store whether match was found
+        boolean match = false;
+
+        // throw exception if stack or queue aruguments are null
+        if(myS == null || myQ == null){
+                throw new IllegalArgumentException();
+        }
+
+        // create a stack and array to hold the items after they are
+        // removed from so they can be added back into myQ and myS
+        SimpleStack<E> copyS = new SimpleStack<E>();
+        SimpleQueue<E> copyQ = new SimpleQueue<E>();
+
+        // look through myQ and myS for matches
+        while(!myQ.isEmpty()){
+                E itemQ = myQ.dequeue();
+                while(!myS.isEmpty()){
+                        E itemS = myS.pop();
+                        if(itemQ == itemS){
+                                match = true;
+                        }
+                        // add removed items to copy Stack
+                        copyS.push(itemS);
+                }
+                // add removed items to copy queue
+                copyQ.enqueue(itemQ);
+                // refill myS using copyS to look through it again
+                while(!copyS.isEmpty()){
+                        myS.push(copyS.pop());
+                }
+        }
+        // refill myQ with copy Q data
+        myQ = copyQ;
+        // refill myS with copyS data - order is inverted
+        while(!copyS.isEmpty()){
+                myS.push(copyS.pop());
+        }
+        // return whether a match was found
+        return match;
+}
+
+
+}

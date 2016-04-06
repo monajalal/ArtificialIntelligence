@@ -1,0 +1,3350 @@
+SPAM SPAM
+Log probability of spam: -179.848418
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -71.529839
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -80.926621
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -89.832765
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -24.736175
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -43.205733
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -46.868611
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -55.892378
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -59.859716
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -69.762667
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -282.340753
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -86.774331
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -67.626403
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -213.525892
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -361.921413
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -55.016729
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -92.337137
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -27.922783
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -37.197668
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -55.284508
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -67.732127
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -24.581589
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -302.270728
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -157.430419
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -186.357972
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -222.631689
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -92.621221
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -103.571100
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -85.678339
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -86.253306
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -48.960010
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -170.073709
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -257.915759
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -45.740477
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -218.006534
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -179.848418
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -231.437619
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -60.715055
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -51.569361
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -95.039432
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -250.351069
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -121.621218
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -95.873119
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -250.594491
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -226.200225
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -70.897673
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -227.079027
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -307.823433
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -126.593238
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -75.763224
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -64.776024
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -219.059973
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -303.394468
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -129.686084
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -116.507132
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -67.657658
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -63.732536
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -71.176535
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -68.919833
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -246.405083
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -279.445116
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -103.235413
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -215.168457
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -265.051389
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -76.466152
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -192.085778
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -54.811759
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -62.058672
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -62.513153
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -104.867284
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -88.467042
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -47.295474
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -191.780074
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -209.933268
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -80.130657
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -171.037965
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -179.109823
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -49.358060
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -117.955681
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -231.437619
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -83.777077
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -71.677292
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -223.251239
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -64.693272
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -60.436609
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -135.807530
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -52.749703
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -114.242516
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -39.068034
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -229.612078
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -46.903422
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -60.213892
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -231.925684
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -140.188582
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -158.569582
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -54.464080
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -42.144651
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -69.224733
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -136.224206
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -130.654817
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -78.357480
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -316.968497
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -98.966159
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -52.936753
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -115.472325
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -72.613117
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -262.904194
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -197.138030
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -17.450132
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -23.391638
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -233.960794
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -103.101090
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -180.044759
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -53.251961
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -64.948330
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -83.289206
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -261.595154
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -299.041279
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -167.982936
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -30.257966
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -102.139685
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -161.648914
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -216.894076
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -110.986442
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -271.787221
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -110.002805
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -113.389653
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -168.470799
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -198.200947
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -242.501318
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -64.106616
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -191.109436
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -12.302951
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -35.929714
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -37.526622
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -68.356440
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -59.883487
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -420.839691
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -91.479331
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -45.365815
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -28.428214
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -356.326008
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -40.773121
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -148.136554
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -142.313659
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -92.892203
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -144.608852
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -47.236590
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -86.539297
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -76.211012
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -49.855817
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -245.529142
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -67.172245
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -258.045220
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -112.591581
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -91.900840
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -49.720658
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -235.912268
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -111.127239
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -92.492036
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -80.690505
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -76.128086
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -135.749005
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -94.513579
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -115.516709
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -109.663255
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -97.768596
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -215.476670
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -242.689485
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -127.076108
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -63.402484
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -116.013047
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -130.277999
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -234.987324
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -98.847998
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -23.766745
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -76.248534
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -149.679867
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -58.028517
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -53.118762
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -29.134714
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -201.138252
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -40.698879
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -178.245467
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -46.058169
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -200.751069
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -169.702362
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -160.351829
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -314.704245
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -122.470220
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -167.457900
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -231.565647
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -383.174624
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -54.549386
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -212.118300
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -45.169487
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -69.325195
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -131.172721
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -100.170788
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -66.486661
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -39.068034
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -66.276357
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -180.327154
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -212.953274
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -362.762264
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -90.549978
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -92.837136
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -407.696478
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -74.140725
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -264.958106
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -276.390193
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -36.790555
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -95.340011
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -241.054741
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -33.968365
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -79.154307
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -86.169847
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -227.321766
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -106.489743
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -152.840583
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -231.728014
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -102.837899
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -140.824122
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -179.436541
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -96.566384
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -193.893940
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -202.496410
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -84.376743
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -42.456948
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -66.517198
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -35.415091
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -147.946238
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -242.127470
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -90.218677
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -221.356577
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -37.111343
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -271.787221
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -217.265082
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -101.545200
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -62.465933
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -191.902958
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -67.358359
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -115.181732
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -274.337356
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -56.218297
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -65.345481
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -154.263571
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -66.574903
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -145.947236
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -94.275142
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -75.489693
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -50.679085
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -40.723573
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -49.651474
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -217.086503
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -232.078870
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -70.587158
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -69.121738
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -115.486379
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -142.705094
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -48.724610
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -250.868206
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -156.547167
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -515.223306
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -93.196351
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -169.072801
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -51.507657
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -27.785240
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -70.848552
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -255.172635
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -105.205508
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -190.819248
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -65.774606
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -82.750745
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -242.766928
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -206.304000
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -235.115119
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -78.770940
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -265.865531
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -354.615844
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -12.085079
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -183.964301
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -68.181662
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -59.879961
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -148.798820
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -160.018604
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -92.351593
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -197.299038
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -84.396404
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -68.380559
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -229.321301
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -33.623699
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -229.452235
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -161.801956
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -102.004931
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -170.592188
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -84.727345
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -130.246120
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -100.249038
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -68.727865
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -131.858477
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -160.569714
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -292.738346
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -32.880858
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -62.746549
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -61.996283
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -23.040633
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -66.659076
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -69.522909
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -268.609248
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -85.210025
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -42.685056
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -130.941039
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -36.543972
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -226.360999
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -225.504935
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -93.445100
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -81.402932
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -105.798564
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -57.477424
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -217.086503
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -264.288828
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -233.340985
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -53.750880
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -44.434928
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -147.315074
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -111.946222
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -135.881552
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -260.939499
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -26.267648
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -98.725733
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -167.585434
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -41.345162
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -47.510770
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -29.546534
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -308.644519
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -224.245657
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -126.010697
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -183.717412
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -38.265198
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -67.701924
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -51.348498
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -92.795849
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -90.147563
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -60.405390
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -60.328540
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -157.901566
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -224.760320
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -84.976381
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -82.297366
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -65.490574
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -393.359410
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -199.287744
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -275.590541
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -218.004237
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -40.089700
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -51.104591
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -224.049490
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -183.940933
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -34.393595
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -45.748464
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -157.130906
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -33.633635
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -115.411882
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -87.998705
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -78.375898
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -28.474884
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -81.348404
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -264.578895
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -215.971770
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -94.316310
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -155.300742
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -59.922695
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -94.316310
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -41.184696
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -199.907182
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -54.915183
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -306.622237
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -78.781061
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -230.430498
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -201.540863
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -60.298851
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -137.541029
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -330.208982
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -78.872600
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -63.652487
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -165.435459
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -206.045802
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -116.127995
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -33.176486
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -61.962507
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -58.562038
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -100.109756
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -41.198712
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -128.982090
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -59.377903
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -15.133457
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -45.966970
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -102.178277
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -31.682980
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -148.974072
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -243.419712
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -47.472678
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -203.604190
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -77.857264
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -278.480229
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -116.666224
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -261.554094
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -86.787707
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -335.197334
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -65.290672
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -202.829078
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -231.674687
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -44.714517
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -128.283202
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -65.206019
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -70.963525
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -120.111477
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -58.320173
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -39.190223
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -59.329867
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -113.895780
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -25.931985
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -35.993108
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -224.126813
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -132.383848
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -5.844424
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -74.096455
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -146.616618
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -107.660701
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -75.357755
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -260.844348
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -137.311478
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -38.563362
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -250.583764
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -73.789435
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -287.041506
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -215.482096
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -62.679093
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -204.540585
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -108.425208
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -244.041245
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -58.138946
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -16.063423
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -35.653211
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -86.896798
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -146.452112
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -209.922458
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -78.948307
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -101.454310
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -55.080862
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -31.707924
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -243.727955
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -218.375166
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -26.621104
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -85.208390
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -230.590605
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -205.126059
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -80.981668
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -828.863272
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -133.225525
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -113.467597
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -154.303113
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -58.877960
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -258.128910
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -177.400762
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -110.842081
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -100.831345
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -78.687693
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -56.526277
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -171.383770
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -191.003054
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -229.378573
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -70.552354
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -59.858612
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -188.811981
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -62.318731
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -49.201285
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -38.722304
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -47.312247
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -211.088282
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -206.653166
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -35.822466
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -38.291410
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -57.103815
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -130.762064
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -30.664006
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -157.620889
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -201.395466
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -112.521373
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -83.826368
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -208.065426
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -150.879104
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -67.732127
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -95.444944
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -240.488951
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -362.765164
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -212.715649
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -67.375278
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -29.377307
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -63.047821
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -122.913695
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -177.661010
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -162.971175
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -103.534093
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -119.640405
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -81.570467
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -49.468089
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -198.547331
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -89.113054
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -34.556351
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -35.581441
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -233.523460
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -26.600627
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -126.673801
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -136.940127
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -331.190330
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -163.072281
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -66.608857
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -39.048258
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -55.009780
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -214.884841
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -263.145130
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -313.012862
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -27.140472
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -86.591266
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -70.763444
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -52.884491
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -209.216901
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -115.637356
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -30.986076
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -57.880709
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -96.783158
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -268.593037
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -73.867862
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -165.113817
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -181.242502
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -42.710683
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -72.865145
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -131.781387
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -61.213862
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -49.586918
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -98.711336
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -62.204499
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -259.235398
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -85.542210
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -263.339318
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -59.643519
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -39.755252
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -90.708630
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -123.544390
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -121.772501
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -50.161470
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -85.098051
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -39.437338
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -96.610803
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -112.563817
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -240.519870
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -36.990957
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -30.543846
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -206.758073
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -84.252621
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -105.809591
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -220.450960
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -63.746539
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -74.330130
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -295.079769
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -17.188145
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -74.591207
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -98.944645
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -141.169018
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -38.588564
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -29.999470
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -47.858621
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -65.670545
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -193.305717
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -315.603122
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -187.305692
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -48.659426
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -89.737939
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -5.844424
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -217.040442
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -69.999640
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -71.118859
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -106.968448
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -170.254986
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -227.079027
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -202.635124
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -76.337664
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -78.574422
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -44.869877
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -70.543351
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -162.162356
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -221.880153
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -68.467819
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -65.426695
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -59.908676
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -332.122062
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -281.969969
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -294.884040
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -38.640667
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -51.456707
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -54.982128
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -148.294845
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -46.935607
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -52.607509
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -158.741406
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -42.063852
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -73.033355
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -97.221322
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -45.048609
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -48.588855
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -50.279354
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -102.907206
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -203.920952
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -78.863229
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -40.846837
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -45.242888
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -32.876328
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -74.742484
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -49.789641
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -51.845013
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -66.882140
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -129.032053
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -205.950420
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -332.122062
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -49.510899
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -148.974072
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -201.366717
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -146.094184
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -76.087462
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -156.430085
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -34.744186
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -50.632151
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -49.485726
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -146.947141
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -26.648209
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -41.133358
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -149.742425
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -196.112105
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -249.314478
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -92.367056
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -279.769830
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -388.158347
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -41.508426
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -172.800035
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -47.149337
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -42.242620
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -216.323879
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -53.645440
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -61.976791
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -104.992758
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -136.941386
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -209.640568
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -74.196369
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -159.357310
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -149.145897
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -151.757102
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -79.452837
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -68.935410
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -237.989254
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -55.496103
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -45.607312
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -129.288240
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -31.934047
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -220.333468
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -286.319065
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -72.853396
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -215.406667
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -461.324967
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -69.543680
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -319.416263
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -319.960100
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -218.710932
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -100.029370
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -176.453023
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -105.881720
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -34.394357
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -50.071227
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -128.104502
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -160.771458
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -274.108112
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -61.283076
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -171.154401
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -249.600836
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -78.749449
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -58.728143
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -48.326494
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -68.731114
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -143.802789
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -59.248841
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -56.861402
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -113.165159
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -124.378253
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -237.032542
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -135.917185
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -196.473552
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -50.533722
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -42.209667
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -51.060331
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -105.990605
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -91.278801
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -37.361660
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -124.498872
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -177.178799
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -197.520932
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -458.298180
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -77.110105
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -131.951859
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -107.190751
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -131.362480
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -148.643464
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -144.643140
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -208.372169
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -82.285578
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -91.518974
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -121.857294
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -256.079238
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -131.935187
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -86.882362
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -125.195110
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -67.698383
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -39.539826
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -38.945456
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -90.708630
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -217.710981
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -216.972343
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -45.664031
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -154.913510
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -259.383393
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -111.630950
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -237.646069
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -175.484588
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -46.704453
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -219.688724
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -49.205959
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -106.546561
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -92.478006
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -168.137944
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -46.222231
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -34.368307
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -115.263140
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -175.614341
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -32.014759
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -101.167152
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -262.904194
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -5.844424
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -139.218317
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -99.050499
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -135.604223
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -70.638307
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -127.530423
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -119.659608
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -62.584663
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -75.763224
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -81.221757
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -26.638565
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -53.371465
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -242.689485
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -104.283887
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -171.590654
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -183.009235
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -397.136960
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -218.714161
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -79.623384
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -209.667283
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -92.928780
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -13.128902
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -123.035236
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -235.815780
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -31.937240
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -179.736385
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -54.157299
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -238.057501
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -55.440593
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -46.058066
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -50.905536
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -133.937712
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -103.482258
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -149.469625
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -45.688576
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -29.187101
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -23.028381
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -131.782528
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -48.327680
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -74.378314
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -260.932283
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -482.216613
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -89.935739
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -39.822790
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -20.307979
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -45.070094
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -387.476073
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -108.546641
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -108.781143
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -436.495040
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -113.189318
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -72.578789
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -34.144542
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -275.262206
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -63.792030
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -174.057775
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -52.523738
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -187.600846
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -53.722860
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -69.182586
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -42.157446
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -89.888771
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -185.735732
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -83.364112
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -63.346709
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -62.851277
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -53.369688
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -215.918551
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -34.705742
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -171.485958
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -56.193439
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -65.649178
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -128.597256
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -121.003103
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -67.836248
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -211.233254
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -97.162884
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -101.276849
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -196.302373
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -166.999124
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -229.515973
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -44.707102
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -277.965379
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -117.979940
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -47.336071
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -79.695757
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -52.787816
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -11.305533
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -154.643777
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -139.578328
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -218.684570
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -64.636729
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -192.455063
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -43.027881
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -107.165724
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -303.984302
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -99.902351
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -225.060093
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -238.437378
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -142.541218
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -284.348541
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -42.456948
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -21.068533
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -165.125328
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -426.350528
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -282.340753
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -12.558296
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -49.381822
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -65.083151
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -71.769640
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -119.744889
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -49.800980
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -211.965608
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -249.500120
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -23.957034
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -79.433582
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -30.103493
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -240.616303
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -101.071470
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -259.020247
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -190.015159
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -42.516145
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -130.886444
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -131.775333
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -60.395931
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -46.477596
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -110.696498
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -80.613677
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -45.037654
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -633.863215
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -282.357346
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -75.809351
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -42.355637
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -40.476862
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -106.268100
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -80.162877
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -141.089073
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -102.065157
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -46.391877
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -98.221451
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -195.580444
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -198.740918
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -162.938821
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -201.479588
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -281.068368
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -64.601464
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -212.372242
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -36.330794
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -141.932709
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -26.648209
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -205.929175
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -151.659823
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -267.795060
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -194.496361
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -68.111398
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -43.477987
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -94.817354
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -71.820692
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -78.761127
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -295.068783
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -156.444219
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -84.793941
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -66.261092
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -41.270641
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -103.057671
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -31.934047
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -153.958452
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -155.310316
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -30.769607
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -52.522158
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -81.073295
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -239.139565
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -55.684325
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -57.428850
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -105.436071
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -214.652769
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -115.960487
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -195.901638
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -34.076911
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -63.802499
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -255.992542
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -111.950875
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -68.547028
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -88.595911
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -267.935168
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -100.447892
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -68.547028
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -205.949842
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -289.078513
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -179.095351
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -133.828910
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -175.879558
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -33.615445
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -108.471120
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -236.301209
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -97.227995
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -58.675152
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -36.924956
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -103.246527
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -234.580072
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -641.492230
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -81.154916
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -37.861299
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -137.096831
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -28.166660
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -200.094341
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -73.077369
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -69.566720
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -89.418878
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -77.460631
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -274.977744
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -102.377321
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -187.652441
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -103.534093
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -71.149291
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -194.463855
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -215.023395
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -23.518911
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -221.178481
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -193.510411
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -32.788280
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -78.114773
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -113.304013
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -81.570467
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -126.000976
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -47.332900
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -79.540161
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -167.464329
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -187.027088
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -58.657150
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -250.661364
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -230.946072
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -180.784046
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -61.568378
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -224.049490
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -136.976569
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -179.848418
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -254.767468
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -130.211671
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -44.339274
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -37.011193
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -40.078502
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -54.179125
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -144.885473
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -28.956279
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -43.291016
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -99.944262
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -406.160080
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -273.520996
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -145.807039
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -61.463246
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -38.820156
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -229.022903
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -256.920979
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -129.882925
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -77.050076
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -91.607989
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -179.240436
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -35.708071
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -219.315805
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -205.851647
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -36.497999
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -60.778752
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -45.362436
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -353.871637
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -95.562279
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -223.010471
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -50.379387
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -193.007681
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -88.146868
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -77.586452
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -213.051457
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -102.511948
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -169.619206
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -39.516670
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -33.002632
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -72.636330
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -244.586017
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -52.452916
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -46.973912
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -79.837671
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -310.565012
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -78.084818
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -133.824447
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -251.909301
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -65.717333
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -145.124735
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -39.767646
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -80.135617
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -44.763570
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -86.271601
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -219.946471
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -82.807742
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -258.758350
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -62.377333
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -91.080722
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -192.156600
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -105.236942
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -50.359327
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -92.930122
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -247.259627
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -222.979989
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -59.608102
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -227.960929
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -52.768991
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -116.927040
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -155.411729
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -66.470186
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -152.977461
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -47.127897
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -67.834019
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -168.463755
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -110.938407
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -93.023404
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -119.035976
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -72.884138
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -149.585889
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -230.883747
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -174.379985
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -153.767682
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -83.035512
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -228.902639
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -70.933917
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -214.935076
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -206.567029
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -89.265525
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -176.716098
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -140.724143
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -151.289888
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -225.046169
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -217.986306
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -956.331039
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -227.336164
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -262.179586
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -107.101544
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -74.844879
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -118.175097
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -275.802989
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -204.059296
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -38.881503
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -239.773509
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -192.397509
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -346.030464
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -86.203208
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -122.555070
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -249.333720
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -134.888353
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -137.375868
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -139.237615
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -52.695176
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -253.489183
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -161.020577
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -226.454393
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -60.798692
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -255.960777
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -233.974413
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -121.132766
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -213.963317
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -200.829850
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -50.527421
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -139.115694
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -127.140270
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -201.762718
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -94.808092
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -112.614401
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -186.819159
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -65.630886
+Log probability of ham: -Infinity
+SPAM SPAM
+Log probability of spam: -224.122900
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -89.140529
+Log probability of ham: -Infinity
+SPAM HAM
+Log probability of spam: -97.919581
+Log probability of ham: -Infinity
+The classification accuracy on testing set is: 0.139785
+

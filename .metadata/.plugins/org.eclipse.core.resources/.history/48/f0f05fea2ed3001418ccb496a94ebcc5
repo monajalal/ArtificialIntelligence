@@ -1,0 +1,64 @@
+import java.awt.List;
+import java.util.ArrayList;
+import java.util.EmptyStackException;
+import java.util.Iterator;
+import java.util.Queue;
+
+
+public class findingStudent {
+	public static <E> boolean findMatch(SimpleQueue<E> myQ, SimpleStack<E> myS) {
+
+        if(myQ == null || myS == null){
+                throw new IllegalArgumentException();
+        }
+        if(myQ.isEmpty()||myS.isEmpty()){
+                return false;
+        }
+        SimpleQueue<E> newQueue = new SimpleQueue<E>();
+        while (!myQ.isEmpty()){
+                newQueue.enqueue(myQ.dequeue());
+        }
+        SimpleStack<E> newStack ;
+        boolean check =true;
+        E frontqueue = null;
+        E topstack = null;
+
+        while(!newQueue.isEmpty()){
+                newStack = new SimpleStack<E>();
+                while(!myS.isEmpty()){
+                        newStack.push(myS.pop());
+                }
+                frontqueue = newQueue.dequeue();
+                myQ.enqueue(frontqueue);
+
+                while(!newStack.isEmpty()){
+                 topstack = newStack.pop();
+                 myS.push(topstack);
+                if(topstack == frontqueue){
+                        check = false;
+                                break;
+                        }
+                }
+                if(check){
+
+                        while(!newQueue.isEmpty()){
+                                myQ.enqueue(newQueue.dequeue());
+                        }
+
+                        while(!newStack.isEmpty()){
+                                myS.push(newStack.pop());
+                        }
+
+                        return false;
+                }
+                check = true;
+                while(!newStack.isEmpty()){
+                        myS.push(newStack.pop());
+                }
+
+        }
+        return true;
+}
+
+                     
+}                                                                                     

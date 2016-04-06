@@ -1,0 +1,61 @@
+import java.awt.List;
+import java.util.ArrayList;
+import java.util.EmptyStackException;
+import java.util.Iterator;
+import java.util.Queue;
+
+
+public class findingStudent {
+	public static <E> boolean findMatch(SimpleQueue<E> myQ, SimpleStack<E> myS) {
+
+        if ((myQ == null) || (myS == null)) {
+                throw new IllegalArgumentException();
+        }
+
+        if ( (myQ.isEmpty()) || (myS.isEmpty()) ) {
+                return false;
+        }
+
+        SimpleQueue<E> tempQ1 = new SimpleQueue<E>();
+        SimpleStack<E> tempS1 = new SimpleStack<E>();
+        SimpleQueue<E> tempQ2 = new SimpleQueue<E>();
+        SimpleStack<E> tempS2 = new SimpleStack<E>();
+        E item;
+        E item2;
+
+        //The following block of code duplicates the queue so the original is unmodified
+        while(!myQ.isEmpty() {
+                tempQ2.enqueue(myQ.dequeue());
+        }
+        while(!tempQ2.isEmpty() {
+                item = tempQ2.dequeue();
+                myQ.enqueue(item);
+                tempQ1.enqueue(item);
+        }
+
+        //The following block of code duplicates the stack to the original is unmodified
+        while(!myS.isEmpty() }
+                tempS2.push(myS.pop());
+        }
+        while(!tempS2.isEmpty() {
+                item = tempS2.pop();
+                myS.push(item);
+                tempS1.push(item);
+        }
+        //This goest trough the entire queue and checks if each item is in the stack
+        while(!tempQ1.isEmpty() {
+                item = tempQ1.dequeue();
+                while(!tempS1.isEmpty() {
+                        item2 = tempS1.pop();
+                        tempS2.push(item2); // Why did i do this?
+                        if(item == item2) {
+                                return true;
+                        }
+                }
+                while(!tempS2.isEmpty()) {
+                tempS1.push(tempS2.pop());
+
+}
+                                                                                                                                                                  
+
+

@@ -1,0 +1,189 @@
+import java.util.*;
+
+public class PlayerImpl implements Player {
+	// Identifies the player
+	private int name = 0;
+	int n = 0;
+	double alpha;
+	double beta;
+
+	// Constructor
+	public PlayerImpl(int name, int n) {
+		this.name = 0;
+		this.n = n;
+	}
+
+	public boolean contains(int[] haystack, int needle){ 
+		for (int h : haystack) 
+			if (h == needle)
+				return true; 
+		return false; 
+	}
+	// Function to find possible successors
+	@Override
+	public ArrayList<Integer> generateSuccessors(int lastMove, int[] crossedList) {
+		// TODO Add your code here
+		/*
+		ArrayList<Integer> successors = new ArrayList<Integer>();
+		if (lastMove==-1){
+			for (int i=2; i<n/2; i+=2)
+				successors.add(i);
+		    return successors;
+		}
+		
+		for(int factor = 1; factor <= lastMove; factor++ ){
+		    if(lastMove % factor == 0)
+		    	if (!contains(crossedList,factor)){
+		        successors.add(factor);
+		    } 
+		}
+		 int i=1;  
+		 while (i*lastMove<n){
+			if ( !successors.contains(i*lastMove) )
+				if (!contains(crossedList,i*lastMove)){
+				successors.add(i*lastMove);
+                i++;
+			}
+		 }
+		return successors;
+		*/
+		ArrayList<Integer> successors = new ArrayList<Integer>();
+		if (lastMove == -1) {
+			for (int i = 2; i < ((double) n / 2.0); i += 2) {
+				successors.add(i);
+			}
+		} else {
+			for (int i = 1; i <= n; i++) {
+				if ((i % lastMove == 0 || lastMove % i == 0)
+						&& (crossedList[i] == 0)) {
+					successors.add(i);
+				}
+			}
+		}
+		return successors;
+	}
+
+	// The max value function
+	@Override
+	public int max_value(GameState s) {
+		// TODO Add your code here
+		int alpha=Integer.MIN_VALUE;
+		ArrayList<Integer> successors = new ArrayList<Integer>();
+		successors=generateSuccessors(s.lastMove, s.crossedList);
+		int size=successors.size();
+        /*if (s.leaf==true){
+        	s.bestMove=-1;
+        	return -1;
+        }
+        else if (s.crossedList.length==0)
+        	return -1;
+        	*/
+		
+        if (size==0){
+        	s.leaf=true;
+        	s.bestMove=-1;
+        	return -1;
+        }
+        int y, score;
+        score=-1;
+        for(int i=0;i<size;i++){
+	        y  = successors.get(i); 
+	        score = min_value(s);
+	        if(score > alpha){
+	        	score =  alpha;
+	        	s.bestMove = y;
+	        }
+        }
+        return score;
+        /*
+        else {
+        	alpha=Integer.MIN_VALUE; //alpha=-inf
+        	for (int i=0; i<size ;i++){
+    			s.crossedList[i]=successors.get(i);
+        	//for (Integer successor : successors){
+    			//how to update lastMove?
+    			//α := max( α , Min-value(s’))
+    			alpha=Math.max(alpha, min_value(s));//right?
+        	}
+        }
+        
+        
+        return alpha;
+        */
+	}
+
+	// The min value function
+	@Override
+	public int min_value(GameState s) {
+		// TODO Add your code here
+        int beta;
+        beta= Integer.MAX_VALUE;
+        ArrayList<Integer> successors= new ArrayList<Integer>();
+        successors=generateSuccessors(s.lastMove, s.crossedList);
+    	int size=successors.size();
+       /* if (s.leaf==true){
+        	s.bestMove=-1;
+        	return 1;
+        }
+*/
+    	/*
+        if (s.crossedList.length==0){
+        	return 1;
+        }
+        */
+        if (size==0){
+        	s.leaf=true;
+        	s.bestMove=-1;
+        	return 1;
+        }
+        /*
+        else{
+        	beta= Integer.MAX_VALUE; //beta=inf
+        	for (int i=0; i<size ;i++){
+    			s.crossedList[i]=successors.get(i);
+        	//for (Integer successor : successors){
+    			//how to update lastMove?
+    			  //β := min( β , Max-value(s’))
+        		beta=Math.min(beta, max_value(s));//right?
+        	}
+        }
+		return beta;
+		*/
+        int y, score;
+        score=1;
+        for(int i=0;i<size;i++){
+	        y  = successors.get(i); 
+	        score = min_value(s);
+	        if(score < beta){
+	        	score =  beta;
+	        	s.bestMove = y;
+	        }
+        }
+        return score;
+	}
+
+	// Function to find the next best move
+	@Override
+	public int move(int lastMove, int[] crossedList) {
+		// TODO Add your code here
+		//int depth=1; //do we start the depth from 0 or 1?
+		GameState state=new GameState(crossedList,lastMove);
+		Double maxValue= Double.NEGATIVE_INFINITY;
+		int tmpMaxValue=0;
+		//Double minValue= Double.POSITIVE_INFINITY;
+		//int tmpMinValue=0;
+		boolean done=false;
+		if (crossedList.length==0)
+			return -1;
+		while (done==false){
+			if (crossedList.length==0)
+				done=true;
+			tmpMaxValue=this.max_value(state);
+			if (tmpMaxValue > maxValue){
+				maxValue=(double) tmpMaxValue;
+			}
+		}
+		return state.bestMove;
+		//return maxValue.intValue();
+	}
+}

@@ -1,0 +1,48 @@
+//correct solution given to me by Jim Skentry 
+public class Finding {
+
+	public static <E> boolean findMatch(SimpleQueue<E> myQ, SimpleStack <E> myS) {
+
+	    //check parameters
+	    if (myQ == null || myS == null) throw new IllegalArgumentException();
+
+	    //check for empty
+	    if (myQ.isEmpty() || myS.isEmpty()) return false;
+
+
+	    SimpleStack<E> tmpS = new SimpleStack<E>();
+	    SimpleQueue<E> tmpQ = new SimpleQueue<E>();
+	    boolean match = false;
+	    E sItem;
+	    E qItem;
+
+	    //check each item in myS (as long as no match found) ->
+	    while (!myS.isEmpty() && !match) {
+
+	        sItem = myS.pop();
+	        tmpS.push(sItem); //used to restore myS
+
+	        //-> against each item in myQ
+	        while (!myQ.isEmpty()) {
+
+	            qItem = myQ.dequeue();
+	            tmpQ.enqueue(qItem); //used to restore myQ
+
+	            //compare address of sItem and see if matches qItem
+	            if (sItem == qItem) match = true;
+	        }
+
+	        //restore myQ to its original state
+	        while (!tmpQ.isEmpty()) myQ.enqueue(tmpQ.dequeue());
+	    }
+
+	    //restore myS to its original state
+	    while (!tmpS.isEmpty()) myS.push(tmpS.pop());
+
+	    return match;
+	}
+
+	
+	
+}
+

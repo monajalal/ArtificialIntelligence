@@ -1,0 +1,52 @@
+import java.util.ArrayList;
+import java.util.EmptyStackException;
+import java.util.Queue;
+
+
+public class findingStudent {
+	public static <E> boolean findMatch(SimpleQueue<E> myQ, SimpleStack<E> myS) {
+		// If myQ or myS is null, throw an IllegalArgumentException.
+		// If myQ or myS is empty, return false.
+		// Otherwise return true if and only if any object in myQ is also in myS.
+		// When the method finishes, the contents of myQ and myS should be the same as
+		// in they were originally.
+		        boolean match = false;
+		        //Checks that the parameters are valid
+		        if(myQ == null || myS == null){
+		                throw new IllegalArgumentException();
+		        }
+		        //Checks that neither the Queue or the Stack is empty
+		        if(!myQ.isEmpty() || !myS.isEmpty()){
+
+		                //Creates a copy of the stack
+		                SimpleStack<E> mySCopy = new ArrayStack<E>();
+		                SimpleQueue<E> myQCopy = new ArrayQueue<E>();
+
+
+		                //Loops through the stack checking each item in the stack to each iteam in the queue
+		                while(!myS.isEmpty()){
+		                        //Loops through checking each item in queue to one item in the stack
+		                        while(!myQ.isEmpty()){
+		                                E curr = myQ.dequeue();//Sets the current object
+		                                //Checks if the item dequeued is equal to the item from the stack
+		                                if(curr == myS.peek()){
+		                                        match = true;//Sets match to true
+		                                }
+		                                myQCopy.enqueue(curr);//Stores the current E into the myQ copy
+		                        }
+		                        //Sets myQ back to normal
+		                        while(!myQCopy.isEmpty()){
+		                                myQ.enqueue(myQCopy.dequeue()):
+		                        }
+		                        mySCopy.push(myS.pop());//removes the item that has been peeked at
+		                }
+		                //Sets by myS back to their originals
+		                while(!mySCopy.isEmpty()){
+		                        myS.push(mySCopy.pop());
+		                }
+		        }
+
+		        return match;
+		}
+
+}

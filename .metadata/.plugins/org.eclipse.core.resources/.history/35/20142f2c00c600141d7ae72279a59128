@@ -1,0 +1,70 @@
+
+public class findingStudent {
+	public static <E> boolean findMatch (SimpleQueue<E> myQ, SimpleStack<E> myS)  {
+
+        
+
+//Checks that the parameters are not null
+ 
+if (myQ == null || myS == null)
+  
+        throw new IllegalArgumentException();
+
+//Checks that the parameters are not empty
+
+if (myQ.isEmpty() || myS.isEmpty())
+
+        return false;
+
+//An array list to hold the data in the queue^M
+ArrayList<E> sq = new ArrayList<E> ();
+
+//fills array list with myQ, myQ is emptied in the process^M
+while(!myQ.isEmpty()){
+        sq.add(myQ.dequeue());
+}
+
+//refill myQ with proper elements^M
+for(int i = 0; i < sq.size(); i++) {
+        myQ.enqueue(sq.get(i));
+}
+
+//An array list to hold the data from myS^M
+ArrayList<E> ss = new ArrayList<E> ();
+
+//fills an array list with the contents of myS^M
+while(!myS.isEmpty()){
+        ss.add(myS.pop());
+}
+
+//refill myS with data^M
+for(int j = (ss.size() - 1); j >= 0; j--) {
+    myS.push(ss.get(i));
+}
+
+//compares the two arrays^M
+for(int i = 0; i < sq.size(); i++) {
+
+//check for a match^M
+if(sq.contains(ss.get(i))){
+
+    //clear arraylists to save memory^M
+    sq = null;
+    ss = null;
+    
+    //a match was found^M
+    return true;
+}
+}
+
+//no match was found^M
+//clear arraylists^M
+sq = null;
+ss = null;
+
+//return that no match was found^M
+return false;
+}
+
+           
+}

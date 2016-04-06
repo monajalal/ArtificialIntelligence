@@ -1,0 +1,38 @@
+import java.util.ArrayList;
+import java.util.EmptyStackException;
+import java.util.Queue;
+
+
+public class findingStudent {
+	public static <E> boolean findMatch(SimpleQueue<E> myQ, SimpleStack<E> myS) {
+		// If myQ or myS is null, throw an IllegalArgumentException.^M
+		// If myQ or myS is empty, return false.^M
+		// Otherwise return true if and only if any object in myQ is also in myS.^M
+		// When the method finishes, the contents of myQ and myS should be the same as^M
+		// in they were originally.^M
+		        if(myQ == null || myS == null)
+		                throw new IllegalArgumentException();
+		        toReturn = false;
+		        try {
+		                SimpleStack<E> tempS = new SimpleStack<E>;
+		                int k;
+		                E toCheck;
+		                while(!myS.isEmpty()) {
+		                        for(k = 0; k < myQ.size; k++) {
+		                                toCheck = myQ.dequeue();
+		                                myQ.enqueue(toCheck);
+		                                if (toCheck == myS.peek())
+		                                        toReturn = true;
+		                        }
+		                        tempS.push(myS.pop());
+		                }
+		                while(!tempS.isEmpty()) {
+		                        myS.push(tempS.pop());
+		        } catch (EmptyStackException es, EmptyQueueException eq) {
+		                return false;
+		        }
+		        return toReturn;
+		}
+
+                                               
+}

@@ -1,0 +1,24 @@
+import java.util.ArrayList;
+import java.util.EmptyStackException;
+import java.util.Queue;
+
+
+public class findingStudent {
+	public static <E> boolean findMatch(SimpleQueue<E> myQ, SimpleStack<E> myS) {
+        if(myQ == null || myS == null)
+                throw new IllegalArgumentException();
+        if(myQ.isEmpty() || myS.isEmpty())
+                return false;
+        SimpleQueue<E> q = myQ;
+        SimpleStack<E> s ;
+        while(!q.isEmpty()){
+                s = myS;
+                E comp = q.dequeue();
+                while(!s.isEmpty)
+                        if(s.pop().equals(comp))
+                                return true;
+        }
+        return false;
+}
+
+}

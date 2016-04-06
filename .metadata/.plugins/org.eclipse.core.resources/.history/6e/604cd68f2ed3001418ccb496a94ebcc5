@@ -1,0 +1,28 @@
+
+public class testFind {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	System.out.println("Helllllo");
+		
+		
+    SimpleStack s=new SimpleStack();
+    s.push(4);
+    s.push(2);
+    SimpleQueue q=new SimpleQueue();
+    q.enqueue(1);
+    q.enqueue(3);
+ 
+    findingStudent f=new findingStudent();
+    System.out.println(f.findMatch(q, s));
+    System.out.println("stack is :");
+    System.out.println(s);
+    System.out.println("queue is :");
+    System.out.println(q);
+    
+    
+    
+	}
+
+}

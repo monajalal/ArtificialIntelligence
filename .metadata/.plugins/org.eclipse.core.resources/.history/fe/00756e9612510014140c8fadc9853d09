@@ -1,0 +1,393 @@
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+/**
+ * Fill in the implementation details of the class DecisionTree using this file.
+ * Any methods or secondary classes that you want are fine but we will only
+ * interact with those methods in the DecisionTree framework.
+ * 
+ * You must add code for the 5 methods specified below.
+ * 
+ * See DecisionTree for a description of default methods.
+ */
+public class DecisionTreeImpl extends DecisionTree {
+	private DecTreeNode root;
+	private List<String> labels; // ordered list of class labels
+	private List<String> attributes; // ordered list of attributes
+	private Map<String, List<String>> attributeValues; // map to ordered
+														// discrete values taken
+														// by attributes
+	public List<Instance> instances;
+	DataSet trainDataSet;
+	DecTreeNode DTNode;
+	//DataSet trainingSet;
+
+	/**
+	 * Answers static questions about decision trees.
+	 */
+	DecisionTreeImpl() {
+		// no code necessary
+		// this is void purposefully
+	}
+	private  double log2( double x )
+    {
+    // Math.log is base e, natural log, ln
+    return Math.log( x ) / Math.log( 2 );
+    }
+	/**
+	 * Build a decision tree given only a training set.
+	 * 
+	 * @param train: the training set
+	 */
+	DecisionTreeImpl(DataSet train) {
+
+	
+		
+		// TODO: add code here
+		
+        trainDataSet = train;
+		
+	
+    	this.labels = train.labels;
+		this.attributes = train.attributes;
+		this.attributeValues = train.attributeValues;		
+		ArrayList<Integer> attributeIndices = new ArrayList<Integer>();
+		for (int i = 0; i < attributes.size(); i++) {
+	
+			attributeIndices.add(i);
+		}
+		
+		
+		buildTree(null, trainDataSet.instances, attributeIndices, null);
+	
+	}
+
+	
+	public DecisionTreeImpl(DataSet trainSet, DataSet tuneSet) {
+		// TODO Auto-generated constructor stub
+	}
+	@Override
+	public String classify(Instance instance) {
+
+		Map<String, Integer > attributeMap = new HashMap<String, Integer>();
+		for (int i = 0; i < trainDataSet.attributes.size(); i++) {
+			attributeMap.put(trainDataSet.attributes.get(i), i);
+		}
+		DecTreeNode currNode = DTNode;
+		while(true){
+			if (currNode.terminal){
+				break;
+			} else {
+				int currAttr = attributeMap.get(currNode.attribute);
+				int instanceValue = instance.attributes.get(currAttr);
+				DecTreeNode foundNode = null;
+				for (DecTreeNode node : currNode.children) {
+					if (node.parentAttributeValue.equals(trainDataSet.attributeValues.get(currNode.attribute).get(instanceValue))){
+						foundNode = node;
+						break;
+					}
+				}
+				assert(foundNode != null);
+				currNode = foundNode;
+			}
+		}
+		return Integer.toString(currNode.label);
+	}
+
+	@Override
+	/**
+	 * Print the decision tree in the specified format
+	 */
+	public void print() {
+
+		printTreeNode(root, null, 0);
+	}
+	
+	/**
+	 * Prints the subtree of the node
+	 * with each line prefixed by 4 * k spaces.
+	 */
+	public void printTreeNode(DecTreeNode p, DecTreeNode parent, int k) {
+		StringBuilder sb = new StringBuilder();
+		for (int i = 0; i < k; i++) {
+			sb.append("    ");
+		}
+		String value;
+		if (parent == null) {
+			value = "ROOT";
+		} else{
+			String parentAttribute = attributes.get(parent.attribute);
+			value = attributeValues.get(parentAttribute).get(p.parentAttributeValue);
+		}
+		sb.append(value);
+		if (p.terminal) {
+			sb.append(" (" + labels.get(p.label) + ")");
+			System.out.println(sb.toString());
+		} else {
+			sb.append(" {" + attributes.get(p.attribute) + "?}");
+			System.out.println(sb.toString());
+			for(DecTreeNode child: p.children) {
+				printTreeNode(child, p, k+1);
+			}
+		}
+	}
+	
+	@Override
+	public void rootInfoGain(DataSet train) {
+
+		
+		this.labels = train.labels;
+		this.attributes = train.attributes;
+		this.attributeValues = train.attributeValues;
+		this.instances=train.instances;
+		int numLabels=train.labels.size();
+		// TODO: add code here
+		double entropy = calcEntropy(instances, numLabels );
+		double mutualInformation = 0;
+		for (int i = 0; i < attributes.size(); i++) { 
+			//double condEntropy = calcConditionalEntropy(i, train);
+			double condEntropy=calcConditionalEntropy(i, train.instances, train.attributeValues.get(train.attributes.get(i)).size(), train.labels.size());
+			mutualInformation = entropy - condEntropy;
+			System.out.printf("%s %.3f\n", attributes.get(i) + " ", mutualInformation);
+		}
+    }
+	
+	
+	
+	private double calcEntropy(List<Instance> instances,int numLabels){
+		
+		int[] labelsRecord = new int[numLabels];
+		int numInstances = instances.size();
+		for (Instance instance : instances) {
+			labelsRecord[instance.label]++;
+		}
+		double entropy = 0;
+	
+		for (int i = 0; i < labelsRecord.length; i++) {
+			if (numInstances!=0) //to avoid division by zero
+			  if (labelsRecord[i]!=0){ //log2(0) is undefined
+				double P = (double)(labelsRecord[i])/numInstances; 
+			//	entropy += P * log2(P);
+				entropy += (-P * log2(P));	    
+		    }
+		}
+		return entropy;
+		//return -entropy; //which version should I go with? Both apparently give the same result!!
+		
+		 
+	}
+	
+	
+	//private double calcConditionalEntropy(int attrIndex, DataSet train){
+	private double calcConditionalEntropy(int attributeId, List<Instance> instances, int noOfAtrributeTypes, int noOfLabelTypes){
+/*
+        int numAttr=train.attributeValues.get(train.attributes.get(attrIndex)).size();
+		int[] attrRecord = new int[numAttr];
+		ArrayList<ArrayList<Instance>> labelInstances = new ArrayList<ArrayList<Instance>>();
+	
+		for (int i = 0; i < numAttr; i++) {
+			labelInstances.add(new ArrayList<Instance>());
+		}
+		int totalInstances = train.instances.size();
+		for (Instance instance : train.instances) {
+			attrRecord[instance.attributes.get(attrIndex)]++;
+			labelInstances.get(instance.attributes.get(attrIndex)).add(instance);
+		}
+		double conditionalEntropy = 0;
+		int numLabels=train.labels.size();
+		for (int i = 0; i < attrRecord.length; i++) {
+			if (totalInstances != 0 && attrRecord[i] != 0) {
+				double probability = Double.valueOf(attrRecord[i])/Double.valueOf(totalInstances); 
+				double subConditionalEntropy = calcEntropy(labelInstances.get(i), numLabels);
+				conditionalEntropy += probability * subConditionalEntropy;
+			}
+		}
+		
+		return conditionalEntropy;
+		*/
+		
+		int[] labelCounts = new int[noOfAtrributeTypes];
+		ArrayList<ArrayList<Instance>> labelInstances = new ArrayList<ArrayList<Instance>>();
+		//Create empty lists
+		for (int i = 0; i < noOfAtrributeTypes; i++) {
+			labelInstances.add(new ArrayList<Instance>());
+		}
+		int totalInstances = instances.size();
+		for (Instance instance : instances) {
+			labelCounts[instance.attributes.get(attributeId)]++;
+			labelInstances.get(instance.attributes.get(attributeId)).add(instance);
+		}
+		double conditionalEntropy = 0;
+		for (int i = 0; i < labelCounts.length; i++) {
+			if (totalInstances != 0 && labelCounts[i] != 0) {
+				double probability = Double.valueOf(labelCounts[i])/Double.valueOf(totalInstances); 
+				double subConditionalEntropy = calcEntropy(labelInstances.get(i), noOfLabelTypes);
+				conditionalEntropy += probability * subConditionalEntropy;
+			}
+		}
+		
+		return conditionalEntropy;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	/*
+	private double importance( List<Instance> instances, List<String> attributes, DataSet data, String attribute){
+		double entropy, conditionalEntropy, informationGain = 0.0; 
+		int numLabels=data.labels.size();
+		entropy = calcEntropy (instances,numLabels);
+		conditionalEntropy = calcConditionalEntropy (attributes.indexOf(attribute), data);
+		informationGain = entropy - conditionalEntropy;
+		return informationGain;
+	}
+	*/
+	
+	
+	
+	private double calcAccuracy(DataSet tune){
+		this.instances=tune.instances;
+		this.labels=tune.labels;
+		int truePrediction = 0;
+		for (Instance instance : instances) {
+			if(classify(instance).equals(labels.get(instance.label))){
+				truePrediction++;
+			}
+		}
+		return((double)(truePrediction)/instances.size());
+	}
+	
+	private boolean isPureNode(List<Instance> instances){
+		int currLabel = Integer.MIN_VALUE;
+		for (Instance instance : instances) {
+			if (currLabel == Integer.MIN_VALUE){
+				currLabel = instance.label;
+				continue;
+			}
+			if (currLabel != instance.label){
+				return false;
+			}
+		}	
+		return true;
+	}
+	
+	
+	private static String pluralityValue(List<Instance> instances, DataSet train){
+	    int[] labelsCount = new int[train.labels.size()];
+	    for(Instance instance : instances){
+	        labelsCount[instance.label]++;
+	    }
+	    int maxLabelCount = -1;
+	    int maxLabelIndex = -1;
+	    for(int i = 0; i < labelsCount.length; i++){
+	        if(labelsCount[i] > maxLabelCount){
+	            maxLabelCount = labelsCount[i];
+	            maxLabelIndex = i;
+	        }
+	    }
+	    return train.labels.get(maxLabelIndex);
+	}
+	
+	
+	//public DecTreeNode buildTree(List<Instance> instances, 
+		//	List<String> attributes, Integer defaultLabel, Integer parentVal)
+	
+	/*private void buildTree(DecTreeNode parent,
+			               List<Instance> instances,
+			               List<Integer> remainingAttributes,
+			               String attributeName,
+			               DataSet train){
+		*/
+	
+		private void buildTree(DecTreeNode parent,
+				               List<Instance> instances,
+				               List<Integer> remainingAttributesIndices,
+				               String attributeName){
+
+		if (remainingAttributesIndices.isEmpty()){
+			String majorLabel=pluralityValue(instances, trainDataSet);
+			int majorLabelIndex=labels.indexOf(majorLabel);
+			parent.addChild( new DecTreeNode(majorLabelIndex, null, parent.attribute, true));
+		}
+		else if (instances.isEmpty()){
+	        parent.addChild(new DecTreeNode(parent.label, null, parent.attribute, true));
+	    }
+		
+	   
+	    else if(isPureNode(instances)){
+	        String pureLabel = pluralityValue(instances,trainDataSet);
+	        int pureLabelIndex=labels.indexOf(pureLabel);
+	        parent.addChild(new DecTreeNode(pureLabelIndex, null, parent.attribute, true));
+	    }
+
+	    //0.85
+		else {
+         
+	    double entropy = calcEntropy(instances, labels.size());
+	    System.out.println("entropy is: "+entropy);
+		int largestEntropyIndex = Integer.MIN_VALUE;
+		double largestMutualInfomation = Double.MIN_VALUE;
+		for (int i = 0; i < remainingAttributesIndices.size(); i++) { 
+			//System.out.println( remainingAttributesIndices.get(i));
+
+			//System.out.println( trainDataSet.attributeValues.get(trainDataSet.attributes.get(remainingAttributesIndices.get(i))));
+
+			//System.out.println( trainDataSet.attributeValues.get(trainDataSet.attributes.get(remainingAttributesIndices.get(i))).size());
+			int attrIndex=remainingAttributesIndices.get(i);
+			String attrName=trainDataSet.attributes.get(attrIndex);
+			double conditionalEntropy = calcConditionalEntropy(remainingAttributesIndices.get(i),
+					                                           instances,
+					                                           trainDataSet.attributeValues.get(attrName).size(),
+					                                           trainDataSet.labels.size());
+               
+		//	double conditionalEntropy=calcConditionalEntropy(remainingAttributes.get(i), train);
+			System.out.println("conditional entropy is: "+conditionalEntropy);
+			double mutualInformation = entropy - conditionalEntropy;
+			if (mutualInformation > largestMutualInfomation){
+				largestMutualInfomation = mutualInformation;
+				largestEntropyIndex = remainingAttributesIndices.get(i);
+			}
+		}
+		System.out.println("largest entropy index is: "+largestEntropyIndex);
+		DecTreeNode currentNode;
+		if(parent == null){
+			String majorLabel = pluralityValue(instances, trainDataSet);
+	        int majorLabelIndex=labels.indexOf(majorLabel);
+	        DTNode = new DecTreeNode(majorLabelIndex, largestEntropyIndex, -1 , isPureNode(instances) || remainingAttributesIndices.size() == 1);
+			currentNode = DTNode;
+			parent=DTNode;
+		} else {
+			String majorLabel = pluralityValue(instances, trainDataSet);
+	        int majorLabelIndex=labels.indexOf(majorLabel);
+			currentNode = new DecTreeNode(majorLabelIndex, largestEntropyIndex, parent.attribute, isPureNode(instances) || remainingAttributesIndices.size() == 0);
+			parent.addChild(currentNode);
+		}
+		String largestEntropyAttr=attributes.get(largestEntropyIndex);
+		int numBranches = attributeValues.get(largestEntropyAttr).size();
+		ArrayList<ArrayList<Instance>> labelInstances = new ArrayList<ArrayList<Instance>>();
+		for (int i = 0; i < numBranches; i++) {
+			labelInstances.add(new ArrayList<Instance>());
+		}
+		for (Instance instance : instances) {
+			labelInstances.get(instance.attributes.get(largestEntropyIndex)).add(instance);
+		}
+		for (int i = 0; i < numBranches; i++) {
+			remainingAttributesIndices.remove(remainingAttributesIndices.indexOf(largestEntropyIndex));
+		    String largestEntropyAttrName=attributeValues.get(attributes.get(largestEntropyIndex)).get(i);
+			buildTree(currentNode,labelInstances.get(i) , remainingAttributesIndices, largestEntropyAttrName);
+			//buildTree(currentNode, labelInstances.get(i), attributesLeft, trainingSet.attributeValues.get(trainingSet.attributes.get(highestEntropyId)).get(i));
+
+			remainingAttributesIndices.add(largestEntropyIndex);
+		}
+		}
+	    
+
+	}
+}
+

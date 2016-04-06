@@ -1,0 +1,53 @@
+import java.util.*;
+
+
+class SimpleStack<E> {
+	public int count=0; 
+    private class StackNode {
+
+	public E value;
+	public StackNode next;
+	
+
+	StackNode(E v, StackNode n) {
+	    value=v;
+	    next=n;
+	}
+    }
+    
+    private StackNode topNode;
+
+    public void push(E v) {	
+	StackNode newNode = 
+	    new StackNode(v,topNode);
+	topNode=newNode;
+	count++;
+    }
+
+    public E pop() {
+	E v = topNode.value;
+	topNode = topNode.next;
+	count--;
+	return v;
+	
+    }
+
+    public String toString() {
+	StackNode inFocus = topNode;
+	String str = "[";
+	while (inFocus != null) {
+	    str = str + inFocus.value;
+	    inFocus = inFocus.next;
+	    if (inFocus != null) {
+		str = str + ", ";
+	    };
+	};
+	return str + "]";
+    }
+
+	public boolean isEmpty() {
+		// TODO Auto-generated method stub
+		return (count==0);
+	
+	}	
+}

@@ -1,0 +1,3350 @@
+SPAM SPAM
+Log probability of spam: -169.621419
+Log probability of ham: -235.963796
+HAM HAM
+Log probability of spam: -78.895945
+Log probability of ham: -71.781369
+HAM HAM
+Log probability of spam: -109.456617
+Log probability of ham: -80.554331
+HAM HAM
+Log probability of spam: -136.405772
+Log probability of ham: -88.890076
+HAM HAM
+Log probability of spam: -65.668442
+Log probability of ham: -24.189218
+HAM HAM
+Log probability of spam: -54.238153
+Log probability of ham: -42.748676
+HAM HAM
+Log probability of spam: -65.658253
+Log probability of ham: -46.224466
+HAM HAM
+Log probability of spam: -70.920229
+Log probability of ham: -58.028251
+HAM HAM
+Log probability of spam: -84.319821
+Log probability of ham: -59.508343
+HAM HAM
+Log probability of spam: -110.213027
+Log probability of ham: -70.787947
+SPAM SPAM
+Log probability of spam: -256.965908
+Log probability of ham: -369.204890
+HAM HAM
+Log probability of spam: -128.367551
+Log probability of ham: -87.147339
+HAM HAM
+Log probability of spam: -83.657453
+Log probability of ham: -67.059868
+HAM HAM
+Log probability of spam: -347.783067
+Log probability of ham: -209.649668
+HAM HAM
+Log probability of spam: -483.228484
+Log probability of ham: -359.382952
+HAM HAM
+Log probability of spam: -68.684954
+Log probability of ham: -54.264971
+HAM HAM
+Log probability of spam: -156.115318
+Log probability of ham: -90.002107
+HAM HAM
+Log probability of spam: -59.833916
+Log probability of ham: -27.320655
+HAM HAM
+Log probability of spam: -67.637118
+Log probability of ham: -36.580154
+HAM HAM
+Log probability of spam: -82.831502
+Log probability of ham: -54.318237
+HAM HAM
+Log probability of spam: -76.069890
+Log probability of ham: -67.673536
+HAM HAM
+Log probability of spam: -65.668442
+Log probability of ham: -24.034632
+HAM SPAM
+Log probability of spam: -328.094071
+Log probability of ham: -302.141702
+HAM HAM
+Log probability of spam: -186.284703
+Log probability of ham: -156.521229
+SPAM SPAM
+Log probability of spam: -164.770865
+Log probability of ham: -269.534355
+SPAM SPAM
+Log probability of spam: -204.929051
+Log probability of ham: -300.256827
+HAM HAM
+Log probability of spam: -172.125835
+Log probability of ham: -90.814418
+HAM HAM
+Log probability of spam: -156.111120
+Log probability of ham: -102.214414
+HAM HAM
+Log probability of spam: -95.897726
+Log probability of ham: -86.151310
+HAM HAM
+Log probability of spam: -167.781569
+Log probability of ham: -84.387839
+HAM HAM
+Log probability of spam: -52.588852
+Log probability of ham: -48.760907
+HAM HAM
+Log probability of spam: -233.180214
+Log probability of ham: -180.165900
+HAM HAM
+Log probability of spam: -354.977952
+Log probability of ham: -255.673659
+HAM HAM
+Log probability of spam: -50.349540
+Log probability of ham: -45.140072
+HAM HAM
+Log probability of spam: -338.062307
+Log probability of ham: -215.002637
+SPAM SPAM
+Log probability of spam: -169.621419
+Log probability of ham: -235.963796
+SPAM SPAM
+Log probability of spam: -222.451283
+Log probability of ham: -303.650310
+HAM HAM
+Log probability of spam: -94.004639
+Log probability of ham: -59.819811
+HAM HAM
+Log probability of spam: -72.030872
+Log probability of ham: -51.170522
+HAM HAM
+Log probability of spam: -126.694952
+Log probability of ham: -95.555145
+SPAM SPAM
+Log probability of spam: -218.917837
+Log probability of ham: -401.441772
+HAM HAM
+Log probability of spam: -162.984948
+Log probability of ham: -121.349641
+HAM HAM
+Log probability of spam: -159.641131
+Log probability of ham: -93.848238
+SPAM SPAM
+Log probability of spam: -226.483657
+Log probability of ham: -338.943584
+HAM HAM
+Log probability of spam: -345.681807
+Log probability of ham: -222.574493
+HAM HAM
+Log probability of spam: -106.882211
+Log probability of ham: -69.845121
+HAM HAM
+Log probability of spam: -388.524413
+Log probability of ham: -223.104849
+HAM HAM
+Log probability of spam: -429.105211
+Log probability of ham: -304.377955
+HAM HAM
+Log probability of spam: -149.554258
+Log probability of ham: -125.826254
+HAM HAM
+Log probability of spam: -127.081661
+Log probability of ham: -74.576498
+SPAM SPAM
+Log probability of spam: -62.309358
+Log probability of ham: -76.532047
+SPAM SPAM
+Log probability of spam: -197.296956
+Log probability of ham: -261.771461
+HAM HAM
+Log probability of spam: -423.392957
+Log probability of ham: -299.808367
+HAM HAM
+Log probability of spam: -160.112601
+Log probability of ham: -128.876416
+HAM HAM
+Log probability of spam: -166.401785
+Log probability of ham: -114.802335
+HAM HAM
+Log probability of spam: -100.629720
+Log probability of ham: -68.031159
+HAM HAM
+Log probability of spam: -100.588835
+Log probability of ham: -62.329269
+HAM HAM
+Log probability of spam: -123.111750
+Log probability of ham: -69.348715
+HAM HAM
+Log probability of spam: -124.059384
+Log probability of ham: -68.179008
+SPAM SPAM
+Log probability of spam: -217.725333
+Log probability of ham: -400.284723
+HAM HAM
+Log probability of spam: -402.409435
+Log probability of ham: -275.549166
+HAM HAM
+Log probability of spam: -154.592392
+Log probability of ham: -100.675008
+HAM HAM
+Log probability of spam: -342.506842
+Log probability of ham: -213.509804
+HAM HAM
+Log probability of spam: -343.135819
+Log probability of ham: -263.515972
+HAM HAM
+Log probability of spam: -94.860446
+Log probability of ham: -75.570329
+HAM HAM
+Log probability of spam: -283.770897
+Log probability of ham: -190.310058
+HAM HAM
+Log probability of spam: -101.003429
+Log probability of ham: -53.805254
+HAM HAM
+Log probability of spam: -111.443680
+Log probability of ham: -60.994963
+HAM HAM
+Log probability of spam: -85.209195
+Log probability of ham: -61.882715
+HAM HAM
+Log probability of spam: -132.971681
+Log probability of ham: -105.034051
+HAM HAM
+Log probability of spam: -122.645160
+Log probability of ham: -87.194761
+HAM HAM
+Log probability of spam: -76.235829
+Log probability of ham: -47.834494
+HAM HAM
+Log probability of spam: -285.468029
+Log probability of ham: -188.450064
+SPAM SPAM
+Log probability of spam: -189.761806
+Log probability of ham: -351.285352
+HAM HAM
+Log probability of spam: -134.202687
+Log probability of ham: -78.648012
+HAM HAM
+Log probability of spam: -341.611765
+Log probability of ham: -167.139883
+SPAM SPAM
+Log probability of spam: -155.843031
+Log probability of ham: -302.502603
+HAM HAM
+Log probability of spam: -79.909006
+Log probability of ham: -48.933813
+HAM HAM
+Log probability of spam: -149.640012
+Log probability of ham: -116.496597
+SPAM SPAM
+Log probability of spam: -222.451283
+Log probability of ham: -303.650310
+HAM HAM
+Log probability of spam: -112.465077
+Log probability of ham: -82.695178
+HAM HAM
+Log probability of spam: -94.084594
+Log probability of ham: -70.340892
+HAM HAM
+Log probability of spam: -340.008282
+Log probability of ham: -219.121830
+HAM HAM
+Log probability of spam: -67.874792
+Log probability of ham: -64.813397
+HAM HAM
+Log probability of spam: -77.911551
+Log probability of ham: -60.589252
+HAM HAM
+Log probability of spam: -164.928200
+Log probability of ham: -133.992521
+HAM HAM
+Log probability of spam: -83.934560
+Log probability of ham: -51.714756
+HAM HAM
+Log probability of spam: -137.304633
+Log probability of ham: -112.995286
+HAM HAM
+Log probability of spam: -86.794001
+Log probability of ham: -38.747805
+SPAM SPAM
+Log probability of spam: -212.498393
+Log probability of ham: -293.776452
+HAM HAM
+Log probability of spam: -94.422991
+Log probability of ham: -45.763961
+HAM HAM
+Log probability of spam: -77.543372
+Log probability of ham: -59.321398
+SPAM SPAM
+Log probability of spam: -199.935627
+Log probability of ham: -377.042524
+HAM HAM
+Log probability of spam: -254.169767
+Log probability of ham: -137.815822
+HAM HAM
+Log probability of spam: -219.064873
+Log probability of ham: -155.522614
+HAM HAM
+Log probability of spam: -81.272327
+Log probability of ham: -54.161047
+HAM HAM
+Log probability of spam: -57.664871
+Log probability of ham: -41.557096
+HAM HAM
+Log probability of spam: -128.044935
+Log probability of ham: -68.010922
+HAM HAM
+Log probability of spam: -211.369027
+Log probability of ham: -145.377252
+HAM HAM
+Log probability of spam: -164.739127
+Log probability of ham: -128.641004
+HAM HAM
+Log probability of spam: -109.639171
+Log probability of ham: -77.518369
+HAM HAM
+Log probability of spam: -463.199379
+Log probability of ham: -311.425919
+HAM HAM
+Log probability of spam: -148.280042
+Log probability of ham: -97.081175
+HAM HAM
+Log probability of spam: -92.939126
+Log probability of ham: -52.079989
+HAM HAM
+Log probability of spam: -156.724435
+Log probability of ham: -114.214999
+HAM HAM
+Log probability of spam: -120.403286
+Log probability of ham: -70.994718
+SPAM SPAM
+Log probability of spam: -241.525421
+Log probability of ham: -383.530454
+SPAM SPAM
+Log probability of spam: -193.187874
+Log probability of ham: -230.589614
+HAM HAM
+Log probability of spam: -50.600169
+Log probability of ham: -16.921966
+HAM HAM
+Log probability of spam: -30.676841
+Log probability of ham: -24.190831
+HAM HAM
+Log probability of spam: -432.955216
+Log probability of ham: -229.157245
+HAM HAM
+Log probability of spam: -189.807145
+Log probability of ham: -101.258628
+HAM HAM
+Log probability of spam: -240.326915
+Log probability of ham: -179.477154
+HAM HAM
+Log probability of spam: -78.996031
+Log probability of ham: -52.590086
+HAM HAM
+Log probability of spam: -105.732734
+Log probability of ham: -63.780587
+HAM HAM
+Log probability of spam: -140.005332
+Log probability of ham: -82.443002
+SPAM SPAM
+Log probability of spam: -233.842348
+Log probability of ham: -381.562943
+HAM HAM
+Log probability of spam: -414.145409
+Log probability of ham: -294.284264
+HAM HAM
+Log probability of spam: -182.261697
+Log probability of ham: -166.941519
+HAM HAM
+Log probability of spam: -30.859387
+Log probability of ham: -30.131905
+HAM HAM
+Log probability of spam: -136.237093
+Log probability of ham: -100.759727
+HAM HAM
+Log probability of spam: -228.617013
+Log probability of ham: -161.074130
+HAM HAM
+Log probability of spam: -293.175181
+Log probability of ham: -217.589340
+HAM HAM
+Log probability of spam: -122.531872
+Log probability of ham: -110.295161
+HAM HAM
+Log probability of spam: -350.156140
+Log probability of ham: -267.857224
+HAM HAM
+Log probability of spam: -146.082915
+Log probability of ham: -109.044936
+HAM HAM
+Log probability of spam: -165.788708
+Log probability of ham: -112.544578
+HAM HAM
+Log probability of spam: -266.325054
+Log probability of ham: -165.018017
+HAM HAM
+Log probability of spam: -296.084292
+Log probability of ham: -207.170716
+SPAM SPAM
+Log probability of spam: -213.067237
+Log probability of ham: -439.485890
+HAM HAM
+Log probability of spam: -117.518888
+Log probability of ham: -63.070897
+SPAM SPAM
+Log probability of spam: -169.802720
+Log probability of ham: -249.205969
+HAM HAM
+Log probability of spam: -31.840214
+Log probability of ham: -11.998907
+HAM HAM
+Log probability of spam: -61.737044
+Log probability of ham: -34.861916
+HAM HAM
+Log probability of spam: -71.492116
+Log probability of ham: -36.619090
+HAM HAM
+Log probability of spam: -122.914778
+Log probability of ham: -67.103147
+HAM HAM
+Log probability of spam: -77.071642
+Log probability of ham: -58.706141
+HAM HAM
+Log probability of spam: -550.727803
+Log probability of ham: -416.312867
+HAM HAM
+Log probability of spam: -129.771035
+Log probability of ham: -90.210332
+HAM HAM
+Log probability of spam: -60.393538
+Log probability of ham: -44.650275
+HAM HAM
+Log probability of spam: -49.925925
+Log probability of ham: -27.994342
+HAM SPAM
+Log probability of spam: -429.627343
+Log probability of ham: -407.070179
+HAM HAM
+Log probability of spam: -81.758553
+Log probability of ham: -39.897335
+HAM HAM
+Log probability of spam: -233.041078
+Log probability of ham: -146.561578
+HAM HAM
+Log probability of spam: -209.154922
+Log probability of ham: -140.020697
+HAM HAM
+Log probability of spam: -120.602429
+Log probability of ham: -91.406753
+SPAM SPAM
+Log probability of spam: -131.961487
+Log probability of ham: -220.401080
+HAM HAM
+Log probability of spam: -91.604698
+Log probability of ham: -46.202153
+HAM HAM
+Log probability of spam: -130.892048
+Log probability of ham: -84.868372
+HAM HAM
+Log probability of spam: -99.322860
+Log probability of ham: -76.481006
+HAM HAM
+Log probability of spam: -88.382792
+Log probability of ham: -48.824438
+SPAM SPAM
+Log probability of spam: -246.870378
+Log probability of ham: -322.946444
+HAM HAM
+Log probability of spam: -91.562291
+Log probability of ham: -66.315113
+HAM HAM
+Log probability of spam: -340.508330
+Log probability of ham: -257.109899
+HAM HAM
+Log probability of spam: -174.916580
+Log probability of ham: -110.559772
+HAM HAM
+Log probability of spam: -167.664826
+Log probability of ham: -89.867443
+HAM HAM
+Log probability of spam: -56.179503
+Log probability of ham: -48.873637
+SPAM SPAM
+Log probability of spam: -220.693890
+Log probability of ham: -385.209237
+HAM HAM
+Log probability of spam: -180.808257
+Log probability of ham: -109.455061
+HAM HAM
+Log probability of spam: -115.368166
+Log probability of ham: -90.694534
+HAM HAM
+Log probability of spam: -125.728317
+Log probability of ham: -80.580795
+HAM HAM
+Log probability of spam: -99.175749
+Log probability of ham: -75.124690
+HAM HAM
+Log probability of spam: -196.677465
+Log probability of ham: -134.857654
+HAM HAM
+Log probability of spam: -124.024469
+Log probability of ham: -93.829764
+HAM HAM
+Log probability of spam: -129.855539
+Log probability of ham: -113.932506
+HAM HAM
+Log probability of spam: -152.854322
+Log probability of ham: -108.321934
+HAM HAM
+Log probability of spam: -136.913612
+Log probability of ham: -99.239669
+HAM HAM
+Log probability of spam: -342.618609
+Log probability of ham: -210.830090
+HAM HAM
+Log probability of spam: -407.485032
+Log probability of ham: -242.308035
+HAM HAM
+Log probability of spam: -134.390086
+Log probability of ham: -126.002309
+HAM HAM
+Log probability of spam: -96.579438
+Log probability of ham: -63.636889
+HAM HAM
+Log probability of spam: -235.340322
+Log probability of ham: -113.481980
+HAM HAM
+Log probability of spam: -175.100994
+Log probability of ham: -128.728915
+SPAM SPAM
+Log probability of spam: -235.889503
+Log probability of ham: -252.897406
+SPAM SPAM
+Log probability of spam: -88.163990
+Log probability of ham: -188.475676
+HAM HAM
+Log probability of spam: -42.642571
+Log probability of ham: -23.254827
+HAM HAM
+Log probability of spam: -110.743107
+Log probability of ham: -74.680844
+HAM HAM
+Log probability of spam: -210.117417
+Log probability of ham: -148.867891
+HAM HAM
+Log probability of spam: -91.242440
+Log probability of ham: -56.789352
+HAM HAM
+Log probability of spam: -89.685448
+Log probability of ham: -52.594471
+HAM HAM
+Log probability of spam: -45.720954
+Log probability of ham: -30.379797
+HAM HAM
+Log probability of spam: -272.732237
+Log probability of ham: -198.553014
+HAM HAM
+Log probability of spam: -55.627976
+Log probability of ham: -40.576114
+HAM HAM
+Log probability of spam: -346.580968
+Log probability of ham: -175.252648
+HAM HAM
+Log probability of spam: -49.192433
+Log probability of ham: -45.570742
+HAM HAM
+Log probability of spam: -298.298512
+Log probability of ham: -198.020027
+HAM HAM
+Log probability of spam: -255.717128
+Log probability of ham: -166.587085
+HAM HAM
+Log probability of spam: -271.510346
+Log probability of ham: -156.999851
+HAM HAM
+Log probability of spam: -425.656411
+Log probability of ham: -312.138455
+HAM HAM
+Log probability of spam: -136.428365
+Log probability of ham: -121.892448
+HAM HAM
+Log probability of spam: -221.151819
+Log probability of ham: -164.157512
+HAM HAM
+Log probability of spam: -314.888026
+Log probability of ham: -229.650912
+SPAM SPAM
+Log probability of spam: -367.346220
+Log probability of ham: -439.397276
+HAM HAM
+Log probability of spam: -84.227025
+Log probability of ham: -53.984838
+SPAM SPAM
+Log probability of spam: -190.778334
+Log probability of ham: -313.239060
+HAM HAM
+Log probability of spam: -72.281161
+Log probability of ham: -44.446755
+HAM HAM
+Log probability of spam: -79.767233
+Log probability of ham: -69.969076
+HAM HAM
+Log probability of spam: -214.683461
+Log probability of ham: -129.172150
+HAM HAM
+Log probability of spam: -190.056821
+Log probability of ham: -98.543414
+HAM HAM
+Log probability of spam: -77.274078
+Log probability of ham: -66.644474
+HAM HAM
+Log probability of spam: -86.794001
+Log probability of ham: -38.747805
+SPAM SPAM
+Log probability of spam: -63.247178
+Log probability of ham: -68.105843
+SPAM SPAM
+Log probability of spam: -159.590000
+Log probability of ham: -235.890215
+HAM HAM
+Log probability of spam: -240.691257
+Log probability of ham: -211.687058
+HAM HAM
+Log probability of spam: -441.694834
+Log probability of ham: -357.089888
+HAM HAM
+Log probability of spam: -132.712405
+Log probability of ham: -89.594935
+HAM HAM
+Log probability of spam: -133.602706
+Log probability of ham: -91.068487
+SPAM SPAM
+Log probability of spam: -444.535401
+Log probability of ham: -447.236097
+HAM HAM
+Log probability of spam: -97.999507
+Log probability of ham: -73.509205
+SPAM SPAM
+Log probability of spam: -250.136412
+Log probability of ham: -366.109397
+SPAM SPAM
+Log probability of spam: -272.116640
+Log probability of ham: -321.231873
+HAM HAM
+Log probability of spam: -76.425640
+Log probability of ham: -36.678620
+HAM HAM
+Log probability of spam: -152.101019
+Log probability of ham: -94.170098
+HAM HAM
+Log probability of spam: -369.266877
+Log probability of ham: -235.770722
+HAM HAM
+Log probability of spam: -40.360577
+Log probability of ham: -34.021979
+HAM HAM
+Log probability of spam: -102.948086
+Log probability of ham: -78.582194
+HAM HAM
+Log probability of spam: -140.326923
+Log probability of ham: -84.760063
+HAM HAM
+Log probability of spam: -290.653348
+Log probability of ham: -235.900151
+HAM HAM
+Log probability of spam: -243.960687
+Log probability of ham: -103.924008
+HAM HAM
+Log probability of spam: -192.924310
+Log probability of ham: -151.707242
+SPAM SPAM
+Log probability of spam: -211.678355
+Log probability of ham: -353.680681
+HAM HAM
+Log probability of spam: -167.736914
+Log probability of ham: -100.996673
+HAM HAM
+Log probability of spam: -172.619616
+Log probability of ham: -140.539232
+HAM HAM
+Log probability of spam: -204.429873
+Log probability of ham: -177.336276
+HAM HAM
+Log probability of spam: -146.725148
+Log probability of ham: -94.856761
+HAM HAM
+Log probability of spam: -235.745211
+Log probability of ham: -192.243178
+SPAM SPAM
+Log probability of spam: -176.402952
+Log probability of ham: -387.465340
+HAM HAM
+Log probability of spam: -148.303384
+Log probability of ham: -83.076102
+HAM HAM
+Log probability of spam: -57.478742
+Log probability of ham: -41.374685
+HAM HAM
+Log probability of spam: -94.119338
+Log probability of ham: -66.060062
+HAM HAM
+Log probability of spam: -67.572189
+Log probability of ham: -34.860395
+SPAM SPAM
+Log probability of spam: -130.026265
+Log probability of ham: -256.443630
+SPAM SPAM
+Log probability of spam: -222.459501
+Log probability of ham: -376.673590
+HAM HAM
+Log probability of spam: -120.087838
+Log probability of ham: -104.209424
+SPAM SPAM
+Log probability of spam: -205.720199
+Log probability of ham: -305.771597
+HAM HAM
+Log probability of spam: -58.872039
+Log probability of ham: -36.392313
+HAM HAM
+Log probability of spam: -350.156140
+Log probability of ham: -267.857224
+HAM HAM
+Log probability of spam: -299.333900
+Log probability of ham: -212.855835
+HAM HAM
+Log probability of spam: -170.412415
+Log probability of ham: -99.542599
+HAM HAM
+Log probability of spam: -88.522898
+Log probability of ham: -61.637456
+HAM HAM
+Log probability of spam: -276.439307
+Log probability of ham: -188.766569
+HAM HAM
+Log probability of spam: -99.327504
+Log probability of ham: -66.243353
+HAM HAM
+Log probability of spam: -209.824315
+Log probability of ham: -112.828158
+HAM HAM
+Log probability of spam: -335.774274
+Log probability of ham: -282.774064
+HAM HAM
+Log probability of spam: -103.358177
+Log probability of ham: -55.319219
+HAM HAM
+Log probability of spam: -93.670433
+Log probability of ham: -64.929496
+HAM HAM
+Log probability of spam: -170.058856
+Log probability of ham: -165.397180
+HAM HAM
+Log probability of spam: -111.199834
+Log probability of ham: -65.601405
+HAM HAM
+Log probability of spam: -237.388560
+Log probability of ham: -143.049217
+HAM HAM
+Log probability of spam: -145.671900
+Log probability of ham: -92.964833
+HAM HAM
+Log probability of spam: -77.044203
+Log probability of ham: -74.805079
+HAM HAM
+Log probability of spam: -102.232198
+Log probability of ham: -49.684824
+HAM HAM
+Log probability of spam: -59.325452
+Log probability of ham: -40.033731
+HAM HAM
+Log probability of spam: -105.148862
+Log probability of ham: -48.730939
+SPAM SPAM
+Log probability of spam: -195.326754
+Log probability of ham: -366.131282
+SPAM SPAM
+Log probability of spam: -204.879773
+Log probability of ham: -371.549656
+HAM HAM
+Log probability of spam: -117.582035
+Log probability of ham: -70.479832
+HAM HAM
+Log probability of spam: -108.092023
+Log probability of ham: -69.171483
+HAM HAM
+Log probability of spam: -251.444344
+Log probability of ham: -112.513014
+HAM HAM
+Log probability of spam: -189.794549
+Log probability of ham: -142.650145
+HAM HAM
+Log probability of spam: -64.425367
+Log probability of ham: -48.237355
+SPAM SPAM
+Log probability of spam: -223.760840
+Log probability of ham: -408.181022
+HAM HAM
+Log probability of spam: -205.250967
+Log probability of ham: -153.656585
+HAM HAM
+Log probability of spam: -675.853780
+Log probability of ham: -505.353442
+HAM HAM
+Log probability of spam: -159.118540
+Log probability of ham: -91.483632
+SPAM SPAM
+Log probability of spam: -148.474033
+Log probability of ham: -279.875073
+HAM HAM
+Log probability of spam: -83.808425
+Log probability of ham: -50.429010
+HAM HAM
+Log probability of spam: -40.596616
+Log probability of ham: -27.849172
+HAM HAM
+Log probability of spam: -132.019763
+Log probability of ham: -68.629559
+SPAM SPAM
+Log probability of spam: -255.236836
+Log probability of ham: -293.991463
+HAM HAM
+Log probability of spam: -144.502550
+Log probability of ham: -103.798358
+SPAM SPAM
+Log probability of spam: -174.508103
+Log probability of ham: -289.980094
+SPAM SPAM
+Log probability of spam: -60.337763
+Log probability of ham: -95.160084
+HAM HAM
+Log probability of spam: -124.801362
+Log probability of ham: -81.315531
+HAM HAM
+Log probability of spam: -356.270659
+Log probability of ham: -243.070810
+HAM HAM
+Log probability of spam: -271.185877
+Log probability of ham: -206.555074
+HAM HAM
+Log probability of spam: -279.312460
+Log probability of ham: -244.778989
+HAM HAM
+Log probability of spam: -106.387224
+Log probability of ham: -77.164904
+SPAM SPAM
+Log probability of spam: -265.550773
+Log probability of ham: -299.339914
+HAM HAM
+Log probability of spam: -460.740750
+Log probability of ham: -351.333198
+HAM HAM
+Log probability of spam: -20.039598
+Log probability of ham: -11.793463
+SPAM SPAM
+Log probability of spam: -168.617486
+Log probability of ham: -265.549555
+HAM HAM
+Log probability of spam: -112.010672
+Log probability of ham: -67.269724
+SPAM SPAM
+Log probability of spam: -68.547981
+Log probability of ham: -75.642742
+HAM HAM
+Log probability of spam: -213.030314
+Log probability of ham: -147.302925
+HAM HAM
+Log probability of spam: -239.288964
+Log probability of ham: -159.343432
+HAM HAM
+Log probability of spam: -169.011089
+Log probability of ham: -90.294203
+HAM HAM
+Log probability of spam: -298.090847
+Log probability of ham: -194.246456
+HAM HAM
+Log probability of spam: -100.287352
+Log probability of ham: -85.460146
+HAM HAM
+Log probability of spam: -127.591725
+Log probability of ham: -67.117397
+HAM HAM
+Log probability of spam: -281.545168
+Log probability of ham: -227.050035
+HAM HAM
+Log probability of spam: -74.666262
+Log probability of ham: -32.839885
+HAM HAM
+Log probability of spam: -380.554252
+Log probability of ham: -226.593123
+HAM HAM
+Log probability of spam: -202.706649
+Log probability of ham: -159.504187
+HAM HAM
+Log probability of spam: -133.853956
+Log probability of ham: -99.803817
+HAM HAM
+Log probability of spam: -242.435525
+Log probability of ham: -168.755747
+HAM HAM
+Log probability of spam: -124.363000
+Log probability of ham: -83.203642
+HAM HAM
+Log probability of spam: -167.656325
+Log probability of ham: -129.240209
+HAM HAM
+Log probability of spam: -148.524209
+Log probability of ham: -98.268381
+HAM HAM
+Log probability of spam: -104.394874
+Log probability of ham: -67.266654
+HAM HAM
+Log probability of spam: -256.618623
+Log probability of ham: -129.242946
+HAM HAM
+Log probability of spam: -264.180751
+Log probability of ham: -169.278534
+HAM HAM
+Log probability of spam: -328.875098
+Log probability of ham: -292.888870
+HAM HAM
+Log probability of spam: -36.974011
+Log probability of ham: -32.941828
+HAM HAM
+Log probability of spam: -62.563608
+Log probability of ham: -62.491623
+HAM HAM
+Log probability of spam: -91.539813
+Log probability of ham: -60.998002
+HAM HAM
+Log probability of spam: -51.467499
+Log probability of ham: -22.603017
+HAM HAM
+Log probability of spam: -90.143555
+Log probability of ham: -65.882165
+HAM HAM
+Log probability of spam: -79.177706
+Log probability of ham: -69.447521
+HAM HAM
+Log probability of spam: -320.804644
+Log probability of ham: -265.055869
+HAM HAM
+Log probability of spam: -145.153745
+Log probability of ham: -84.036964
+HAM HAM
+Log probability of spam: -81.041442
+Log probability of ham: -42.261994
+HAM HAM
+Log probability of spam: -229.071502
+Log probability of ham: -128.581683
+HAM HAM
+Log probability of spam: -56.449164
+Log probability of ham: -35.741220
+HAM HAM
+Log probability of spam: -339.047530
+Log probability of ham: -224.840940
+SPAM SPAM
+Log probability of spam: -196.147313
+Log probability of ham: -424.615143
+HAM HAM
+Log probability of spam: -145.418830
+Log probability of ham: -92.007074
+HAM HAM
+Log probability of spam: -121.106888
+Log probability of ham: -80.572568
+HAM HAM
+Log probability of spam: -173.927599
+Log probability of ham: -103.117166
+HAM HAM
+Log probability of spam: -126.552644
+Log probability of ham: -56.144665
+SPAM SPAM
+Log probability of spam: -195.326754
+Log probability of ham: -366.131282
+SPAM SPAM
+Log probability of spam: -264.772771
+Log probability of ham: -367.148063
+HAM HAM
+Log probability of spam: -288.003220
+Log probability of ham: -230.100919
+HAM HAM
+Log probability of spam: -65.668442
+Log probability of ham: -53.203922
+HAM HAM
+Log probability of spam: -85.335097
+Log probability of ham: -43.506105
+HAM HAM
+Log probability of spam: -153.905427
+Log probability of ham: -148.045411
+HAM HAM
+Log probability of spam: -164.408380
+Log probability of ham: -111.455324
+HAM HAM
+Log probability of spam: -182.847265
+Log probability of ham: -134.414720
+HAM HAM
+Log probability of spam: -357.414249
+Log probability of ham: -257.354856
+HAM HAM
+Log probability of spam: -65.668442
+Log probability of ham: -25.720690
+HAM HAM
+Log probability of spam: -135.683313
+Log probability of ham: -97.125472
+SPAM SPAM
+Log probability of spam: -151.073482
+Log probability of ham: -224.020971
+HAM HAM
+Log probability of spam: -84.031894
+Log probability of ham: -40.760588
+HAM HAM
+Log probability of spam: -54.367986
+Log probability of ham: -46.974284
+HAM HAM
+Log probability of spam: -34.282339
+Log probability of ham: -29.635807
+HAM HAM
+Log probability of spam: -377.284011
+Log probability of ham: -305.904155
+HAM HAM
+Log probability of spam: -326.026574
+Log probability of ham: -221.765606
+HAM HAM
+Log probability of spam: -168.844466
+Log probability of ham: -123.707208
+HAM HAM
+Log probability of spam: -274.570718
+Log probability of ham: -179.630868
+HAM HAM
+Log probability of spam: -53.397632
+Log probability of ham: -40.121590
+HAM HAM
+Log probability of spam: -104.570780
+Log probability of ham: -66.762806
+HAM HAM
+Log probability of spam: -92.640960
+Log probability of ham: -50.285984
+HAM HAM
+Log probability of spam: -151.386309
+Log probability of ham: -103.700107
+HAM HAM
+Log probability of spam: -128.315269
+Log probability of ham: -89.046136
+HAM HAM
+Log probability of spam: -107.655982
+Log probability of ham: -59.967849
+HAM HAM
+Log probability of spam: -124.480162
+Log probability of ham: -58.888011
+SPAM SPAM
+Log probability of spam: -152.401849
+Log probability of ham: -230.919117
+SPAM SPAM
+Log probability of spam: -199.710385
+Log probability of ham: -388.213306
+HAM HAM
+Log probability of spam: -87.844597
+Log probability of ham: -84.146407
+HAM HAM
+Log probability of spam: -101.045718
+Log probability of ham: -80.928094
+HAM HAM
+Log probability of spam: -102.933100
+Log probability of ham: -64.574503
+HAM HAM
+Log probability of spam: -499.683573
+Log probability of ham: -401.511264
+HAM HAM
+Log probability of spam: -245.282196
+Log probability of ham: -198.227326
+SPAM SPAM
+Log probability of spam: -252.272959
+Log probability of ham: -378.805763
+HAM HAM
+Log probability of spam: -262.534070
+Log probability of ham: -216.554476
+HAM HAM
+Log probability of spam: -58.449971
+Log probability of ham: -39.701021
+HAM HAM
+Log probability of spam: -70.018035
+Log probability of ham: -52.201380
+SPAM SPAM
+Log probability of spam: -198.154550
+Log probability of ham: -355.896132
+HAM HAM
+Log probability of spam: -315.777300
+Log probability of ham: -180.593299
+HAM HAM
+Log probability of spam: -52.475912
+Log probability of ham: -34.400997
+HAM HAM
+Log probability of spam: -76.278852
+Log probability of ham: -44.856273
+HAM HAM
+Log probability of spam: -233.263262
+Log probability of ham: -170.083222
+HAM HAM
+Log probability of spam: -70.290799
+Log probability of ham: -33.198718
+HAM HAM
+Log probability of spam: -155.751083
+Log probability of ham: -114.387184
+HAM HAM
+Log probability of spam: -119.940251
+Log probability of ham: -86.849572
+HAM HAM
+Log probability of spam: -91.278460
+Log probability of ham: -76.794369
+HAM HAM
+Log probability of spam: -53.951301
+Log probability of ham: -28.312981
+HAM HAM
+Log probability of spam: -95.137908
+Log probability of ham: -80.264849
+HAM HAM
+Log probability of spam: -428.904841
+Log probability of ham: -259.955179
+SPAM SPAM
+Log probability of spam: -191.323961
+Log probability of ham: -383.583357
+HAM HAM
+Log probability of spam: -103.439996
+Log probability of ham: -92.931703
+HAM HAM
+Log probability of spam: -231.904366
+Log probability of ham: -152.346493
+HAM HAM
+Log probability of spam: -80.122457
+Log probability of ham: -61.113454
+HAM HAM
+Log probability of spam: -103.439996
+Log probability of ham: -92.931703
+HAM HAM
+Log probability of spam: -55.901043
+Log probability of ham: -41.369900
+HAM HAM
+Log probability of spam: -324.359096
+Log probability of ham: -199.159766
+HAM HAM
+Log probability of spam: -96.362521
+Log probability of ham: -53.934222
+SPAM SPAM
+Log probability of spam: -311.789564
+Log probability of ham: -373.286079
+HAM HAM
+Log probability of spam: -129.390697
+Log probability of ham: -77.734052
+SPAM SPAM
+Log probability of spam: -223.311824
+Log probability of ham: -308.894437
+HAM HAM
+Log probability of spam: -250.547390
+Log probability of ham: -213.867516
+HAM HAM
+Log probability of spam: -75.280625
+Log probability of ham: -60.720184
+HAM HAM
+Log probability of spam: -203.479901
+Log probability of ham: -135.201230
+HAM HAM
+Log probability of spam: -358.535504
+Log probability of ham: -351.282746
+HAM HAM
+Log probability of spam: -99.598835
+Log probability of ham: -78.204270
+HAM HAM
+Log probability of spam: -99.993335
+Log probability of ham: -73.875459
+HAM HAM
+Log probability of spam: -237.585173
+Log probability of ham: -161.688286
+HAM HAM
+Log probability of spam: -228.049018
+Log probability of ham: -226.824171
+HAM HAM
+Log probability of spam: -152.304120
+Log probability of ham: -114.350500
+HAM HAM
+Log probability of spam: -54.505769
+Log probability of ham: -32.306665
+HAM HAM
+Log probability of spam: -92.471384
+Log probability of ham: -60.848053
+HAM HAM
+Log probability of spam: -76.364794
+Log probability of ham: -57.533913
+HAM HAM
+Log probability of spam: -128.334036
+Log probability of ham: -98.629177
+HAM HAM
+Log probability of spam: -94.509448
+Log probability of ham: -40.233528
+HAM HAM
+Log probability of spam: -160.936549
+Log probability of ham: -127.209215
+HAM HAM
+Log probability of spam: -88.128998
+Log probability of ham: -58.930004
+HAM HAM
+Log probability of spam: -19.114511
+Log probability of ham: -15.034179
+HAM HAM
+Log probability of spam: -98.658797
+Log probability of ham: -44.946333
+HAM HAM
+Log probability of spam: -146.629469
+Log probability of ham: -100.662802
+HAM HAM
+Log probability of spam: -43.028384
+Log probability of ham: -30.928497
+HAM HAM
+Log probability of spam: -220.925096
+Log probability of ham: -146.330587
+HAM HAM
+Log probability of spam: -298.801031
+Log probability of ham: -240.763332
+HAM HAM
+Log probability of spam: -59.759226
+Log probability of ham: -47.269247
+HAM HAM
+Log probability of spam: -264.142048
+Log probability of ham: -201.789496
+HAM HAM
+Log probability of spam: -102.737300
+Log probability of ham: -76.693074
+SPAM SPAM
+Log probability of spam: -278.378781
+Log probability of ham: -312.924556
+HAM HAM
+Log probability of spam: -182.593553
+Log probability of ham: -115.083323
+HAM HAM
+Log probability of spam: -382.839528
+Log probability of ham: -260.536706
+HAM HAM
+Log probability of spam: -100.881003
+Log probability of ham: -85.651530
+SPAM SPAM
+Log probability of spam: -308.315476
+Log probability of ham: -424.947222
+HAM HAM
+Log probability of spam: -88.303125
+Log probability of ham: -65.252193
+SPAM SPAM
+Log probability of spam: -181.711702
+Log probability of ham: -291.678021
+SPAM SPAM
+Log probability of spam: -204.497049
+Log probability of ham: -403.969787
+HAM HAM
+Log probability of spam: -63.846353
+Log probability of ham: -45.650045
+HAM HAM
+Log probability of spam: -219.483385
+Log probability of ham: -128.053927
+HAM HAM
+Log probability of spam: -82.319489
+Log probability of ham: -64.542019
+HAM HAM
+Log probability of spam: -112.619768
+Log probability of ham: -69.961880
+HAM HAM
+Log probability of spam: -172.245901
+Log probability of ham: -118.347895
+HAM HAM
+Log probability of spam: -83.776954
+Log probability of ham: -57.518441
+HAM HAM
+Log probability of spam: -70.855859
+Log probability of ham: -38.325200
+HAM HAM
+Log probability of spam: -146.921468
+Log probability of ham: -57.639760
+SPAM HAM
+Log probability of spam: -108.781639
+Log probability of ham: -113.604836
+HAM HAM
+Log probability of spam: -29.599094
+Log probability of ham: -26.780996
+HAM HAM
+Log probability of spam: -56.177044
+Log probability of ham: -35.453739
+HAM HAM
+Log probability of spam: -361.107104
+Log probability of ham: -220.787470
+HAM HAM
+Log probability of spam: -203.164790
+Log probability of ham: -130.820051
+HAM HAM
+Log probability of spam: -10.623528
+Log probability of ham: -5.770221
+HAM HAM
+Log probability of spam: -110.625440
+Log probability of ham: -73.296894
+HAM HAM
+Log probability of spam: -201.818770
+Log probability of ham: -143.726760
+HAM HAM
+Log probability of spam: -159.336183
+Log probability of ham: -107.544750
+HAM HAM
+Log probability of spam: -113.744976
+Log probability of ham: -73.764055
+HAM HAM
+Log probability of spam: -444.969330
+Log probability of ham: -256.892551
+HAM HAM
+Log probability of spam: -199.068190
+Log probability of ham: -136.087839
+HAM HAM
+Log probability of spam: -45.770728
+Log probability of ham: -38.274393
+SPAM SPAM
+Log probability of spam: -249.569057
+Log probability of ham: -366.795152
+HAM HAM
+Log probability of spam: -79.893470
+Log probability of ham: -73.154712
+HAM HAM
+Log probability of spam: -307.702647
+Log probability of ham: -284.173694
+HAM HAM
+Log probability of spam: -380.672333
+Log probability of ham: -211.637919
+HAM HAM
+Log probability of spam: -104.467229
+Log probability of ham: -61.946499
+HAM HAM
+Log probability of spam: -294.261032
+Log probability of ham: -200.245349
+HAM HAM
+Log probability of spam: -156.551914
+Log probability of ham: -107.443778
+SPAM SPAM
+Log probability of spam: -232.389733
+Log probability of ham: -323.287524
+HAM HAM
+Log probability of spam: -99.752705
+Log probability of ham: -57.678545
+HAM HAM
+Log probability of spam: -31.840214
+Log probability of ham: -15.820415
+HAM HAM
+Log probability of spam: -66.518308
+Log probability of ham: -34.950918
+HAM HAM
+Log probability of spam: -103.506885
+Log probability of ham: -86.855580
+SPAM SPAM
+Log probability of spam: -136.399407
+Log probability of ham: -176.157176
+SPAM SPAM
+Log probability of spam: -201.552857
+Log probability of ham: -270.513802
+HAM HAM
+Log probability of spam: -95.757642
+Log probability of ham: -79.073383
+HAM HAM
+Log probability of spam: -174.516125
+Log probability of ham: -99.750911
+HAM HAM
+Log probability of spam: -83.894322
+Log probability of ham: -53.657545
+HAM HAM
+Log probability of spam: -58.224487
+Log probability of ham: -31.063793
+HAM HAM
+Log probability of spam: -331.303675
+Log probability of ham: -241.207032
+HAM HAM
+Log probability of spam: -355.488806
+Log probability of ham: -216.308795
+HAM HAM
+Log probability of spam: -56.288458
+Log probability of ham: -26.106367
+HAM HAM
+Log probability of spam: -116.225291
+Log probability of ham: -85.383616
+SPAM SPAM
+Log probability of spam: -201.481410
+Log probability of ham: -414.374249
+HAM HAM
+Log probability of spam: -318.652361
+Log probability of ham: -200.901569
+HAM HAM
+Log probability of spam: -100.330694
+Log probability of ham: -91.134033
+HAM HAM
+Log probability of spam: -1473.086929
+Log probability of ham: -814.243794
+HAM HAM
+Log probability of spam: -253.718682
+Log probability of ham: -131.802993
+SPAM SPAM
+Log probability of spam: -104.737522
+Log probability of ham: -145.091267
+HAM HAM
+Log probability of spam: -277.980716
+Log probability of ham: -150.831322
+HAM HAM
+Log probability of spam: -89.771570
+Log probability of ham: -58.018568
+HAM HAM
+Log probability of spam: -329.184856
+Log probability of ham: -255.734427
+HAM HAM
+Log probability of spam: -278.681003
+Log probability of ham: -174.099217
+HAM HAM
+Log probability of spam: -170.791468
+Log probability of ham: -110.129514
+HAM HAM
+Log probability of spam: -169.837899
+Log probability of ham: -99.142562
+HAM HAM
+Log probability of spam: -134.891633
+Log probability of ham: -76.977342
+HAM HAM
+Log probability of spam: -104.334617
+Log probability of ham: -55.571269
+HAM HAM
+Log probability of spam: -249.306454
+Log probability of ham: -172.476902
+HAM HAM
+Log probability of spam: -213.066661
+Log probability of ham: -189.866632
+HAM HAM
+Log probability of spam: -346.706477
+Log probability of ham: -224.443176
+HAM HAM
+Log probability of spam: -118.493554
+Log probability of ham: -69.636931
+HAM HAM
+Log probability of spam: -90.375095
+Log probability of ham: -58.910227
+HAM HAM
+Log probability of spam: -321.455494
+Log probability of ham: -185.622975
+HAM HAM
+Log probability of spam: -96.714727
+Log probability of ham: -62.139924
+HAM HAM
+Log probability of spam: -70.490969
+Log probability of ham: -48.106805
+HAM HAM
+Log probability of spam: -72.518517
+Log probability of ham: -37.828922
+HAM HAM
+Log probability of spam: -49.232267
+Log probability of ham: -48.044825
+HAM HAM
+Log probability of spam: -343.587591
+Log probability of ham: -207.298728
+SPAM SPAM
+Log probability of spam: -186.344994
+Log probability of ham: -296.512446
+HAM HAM
+Log probability of spam: -52.949573
+Log probability of ham: -46.647053
+HAM HAM
+Log probability of spam: -66.509125
+Log probability of ham: -37.960620
+HAM HAM
+Log probability of spam: -114.421261
+Log probability of ham: -57.392153
+HAM HAM
+Log probability of spam: -184.051684
+Log probability of ham: -128.779415
+HAM HAM
+Log probability of spam: -41.264796
+Log probability of ham: -29.885916
+HAM HAM
+Log probability of spam: -224.825725
+Log probability of ham: -155.407111
+SPAM HAM
+Log probability of spam: -192.378968
+Log probability of ham: -199.333094
+HAM HAM
+Log probability of spam: -170.191403
+Log probability of ham: -110.647380
+HAM HAM
+Log probability of spam: -107.226126
+Log probability of ham: -82.832558
+HAM HAM
+Log probability of spam: -258.869895
+Log probability of ham: -205.878020
+SPAM HAM
+Log probability of spam: -164.178634
+Log probability of ham: -164.950242
+HAM HAM
+Log probability of spam: -76.069890
+Log probability of ham: -67.673536
+HAM HAM
+Log probability of spam: -133.996834
+Log probability of ham: -93.269319
+HAM HAM
+Log probability of spam: -285.354778
+Log probability of ham: -237.004434
+HAM SPAM
+Log probability of spam: -380.293605
+Log probability of ham: -377.392187
+HAM HAM
+Log probability of spam: -345.040838
+Log probability of ham: -213.159294
+HAM HAM
+Log probability of spam: -98.285064
+Log probability of ham: -67.228558
+HAM HAM
+Log probability of spam: -48.412357
+Log probability of ham: -29.062942
+HAM HAM
+Log probability of spam: -76.247298
+Log probability of ham: -62.551383
+HAM HAM
+Log probability of spam: -140.794634
+Log probability of ham: -122.706598
+HAM HAM
+Log probability of spam: -267.737798
+Log probability of ham: -175.755749
+HAM HAM
+Log probability of spam: -234.852397
+Log probability of ham: -160.348488
+HAM HAM
+Log probability of spam: -177.646008
+Log probability of ham: -102.293939
+HAM HAM
+Log probability of spam: -205.456362
+Log probability of ham: -117.040554
+HAM HAM
+Log probability of spam: -133.122090
+Log probability of ham: -79.732429
+HAM HAM
+Log probability of spam: -89.223710
+Log probability of ham: -48.651123
+SPAM SPAM
+Log probability of spam: -186.318407
+Log probability of ham: -236.919168
+HAM HAM
+Log probability of spam: -113.560936
+Log probability of ham: -87.267721
+HAM HAM
+Log probability of spam: -66.156521
+Log probability of ham: -33.938920
+HAM HAM
+Log probability of spam: -45.244167
+Log probability of ham: -34.788712
+HAM HAM
+Log probability of spam: -322.624694
+Log probability of ham: -230.247730
+HAM HAM
+Log probability of spam: -43.721556
+Log probability of ham: -26.110570
+HAM HAM
+Log probability of spam: -143.454876
+Log probability of ham: -125.099260
+HAM HAM
+Log probability of spam: -178.929500
+Log probability of ham: -136.348846
+HAM HAM
+Log probability of spam: -417.834879
+Log probability of ham: -326.474060
+HAM HAM
+Log probability of spam: -247.282861
+Log probability of ham: -162.616814
+HAM HAM
+Log probability of spam: -93.341082
+Log probability of ham: -66.554599
+HAM HAM
+Log probability of spam: -81.520607
+Log probability of ham: -38.134517
+HAM HAM
+Log probability of spam: -78.954580
+Log probability of ham: -53.723807
+SPAM SPAM
+Log probability of spam: -199.367698
+Log probability of ham: -294.679340
+SPAM SPAM
+Log probability of spam: -256.610348
+Log probability of ham: -388.832992
+HAM HAM
+Log probability of spam: -489.387021
+Log probability of ham: -308.762658
+HAM HAM
+Log probability of spam: -47.721366
+Log probability of ham: -26.530941
+HAM HAM
+Log probability of spam: -127.037874
+Log probability of ham: -85.084427
+HAM HAM
+Log probability of spam: -102.844780
+Log probability of ham: -69.475710
+HAM HAM
+Log probability of spam: -83.932621
+Log probability of ham: -52.587630
+SPAM SPAM
+Log probability of spam: -196.248039
+Log probability of ham: -271.273005
+HAM HAM
+Log probability of spam: -154.674509
+Log probability of ham: -115.203390
+HAM HAM
+Log probability of spam: -38.257362
+Log probability of ham: -30.324247
+HAM HAM
+Log probability of spam: -74.192489
+Log probability of ham: -56.958091
+HAM HAM
+Log probability of spam: -103.485137
+Log probability of ham: -96.814222
+HAM HAM
+Log probability of spam: -450.016352
+Log probability of ham: -264.395996
+HAM HAM
+Log probability of spam: -160.727018
+Log probability of ham: -72.073498
+HAM HAM
+Log probability of spam: -197.119897
+Log probability of ham: -162.978625
+HAM HAM
+Log probability of spam: -275.414803
+Log probability of ham: -176.772398
+HAM HAM
+Log probability of spam: -66.014260
+Log probability of ham: -42.502616
+HAM HAM
+Log probability of spam: -95.261845
+Log probability of ham: -71.568160
+HAM HAM
+Log probability of spam: -176.079304
+Log probability of ham: -130.918538
+HAM HAM
+Log probability of spam: -93.620923
+Log probability of ham: -62.577210
+HAM HAM
+Log probability of spam: -75.161140
+Log probability of ham: -48.986686
+HAM HAM
+Log probability of spam: -152.571720
+Log probability of ham: -96.498292
+HAM HAM
+Log probability of spam: -70.381771
+Log probability of ham: -61.899239
+HAM SPAM
+Log probability of spam: -295.056230
+Log probability of ham: -288.333775
+HAM HAM
+Log probability of spam: -181.786388
+Log probability of ham: -83.837688
+HAM HAM
+Log probability of spam: -380.399817
+Log probability of ham: -261.114277
+HAM HAM
+Log probability of spam: -75.034674
+Log probability of ham: -58.806779
+HAM HAM
+Log probability of spam: -71.040138
+Log probability of ham: -38.907568
+HAM HAM
+Log probability of spam: -91.031232
+Log probability of ham: -89.714758
+HAM HAM
+Log probability of spam: -152.307707
+Log probability of ham: -124.777171
+HAM HAM
+Log probability of spam: -170.694512
+Log probability of ham: -121.309349
+HAM HAM
+Log probability of spam: -77.711723
+Log probability of ham: -48.905506
+HAM HAM
+Log probability of spam: -116.604640
+Log probability of ham: -87.185432
+HAM HAM
+Log probability of spam: -64.250303
+Log probability of ham: -38.466488
+HAM HAM
+Log probability of spam: -151.653519
+Log probability of ham: -106.310225
+HAM HAM
+Log probability of spam: -153.445435
+Log probability of ham: -111.437032
+SPAM SPAM
+Log probability of spam: -251.265682
+Log probability of ham: -299.961482
+HAM HAM
+Log probability of spam: -56.195005
+Log probability of ham: -36.226575
+HAM HAM
+Log probability of spam: -38.183380
+Log probability of ham: -30.039527
+HAM HAM
+Log probability of spam: -317.848972
+Log probability of ham: -203.664796
+HAM HAM
+Log probability of spam: -97.822007
+Log probability of ham: -83.312628
+HAM HAM
+Log probability of spam: -158.903318
+Log probability of ham: -104.018727
+HAM HAM
+Log probability of spam: -276.167206
+Log probability of ham: -218.955160
+HAM HAM
+Log probability of spam: -84.498969
+Log probability of ham: -62.526251
+HAM HAM
+Log probability of spam: -102.677968
+Log probability of ham: -73.097047
+SPAM SPAM
+Log probability of spam: -279.673119
+Log probability of ham: -335.332761
+HAM HAM
+Log probability of spam: -24.396259
+Log probability of ham: -16.767395
+HAM HAM
+Log probability of spam: -140.357634
+Log probability of ham: -72.875406
+HAM HAM
+Log probability of spam: -135.984165
+Log probability of ham: -98.423274
+HAM HAM
+Log probability of spam: -204.561789
+Log probability of ham: -139.936294
+HAM HAM
+Log probability of spam: -72.903354
+Log probability of ham: -37.684747
+HAM HAM
+Log probability of spam: -49.493364
+Log probability of ham: -29.842619
+HAM HAM
+Log probability of spam: -69.248057
+Log probability of ham: -46.872284
+HAM HAM
+Log probability of spam: -101.319689
+Log probability of ham: -64.339407
+HAM HAM
+Log probability of spam: -265.786565
+Log probability of ham: -190.690793
+HAM HAM
+Log probability of spam: -424.476669
+Log probability of ham: -310.110388
+HAM HAM
+Log probability of spam: -237.851550
+Log probability of ham: -185.772616
+HAM HAM
+Log probability of spam: -107.188097
+Log probability of ham: -47.387083
+HAM HAM
+Log probability of spam: -147.777274
+Log probability of ham: -88.492978
+HAM HAM
+Log probability of spam: -10.623528
+Log probability of ham: -5.770221
+HAM HAM
+Log probability of spam: -327.405307
+Log probability of ham: -213.541615
+HAM HAM
+Log probability of spam: -119.902289
+Log probability of ham: -70.401997
+HAM HAM
+Log probability of spam: -112.790340
+Log probability of ham: -69.577099
+HAM HAM
+Log probability of spam: -147.209532
+Log probability of ham: -105.152379
+HAM HAM
+Log probability of spam: -230.637900
+Log probability of ham: -167.779445
+HAM HAM
+Log probability of spam: -388.524413
+Log probability of ham: -223.104849
+HAM SPAM
+Log probability of spam: -268.602943
+Log probability of ham: -213.719375
+HAM HAM
+Log probability of spam: -130.629730
+Log probability of ham: -74.853706
+HAM HAM
+Log probability of spam: -155.653983
+Log probability of ham: -77.014579
+HAM HAM
+Log probability of spam: -80.607710
+Log probability of ham: -43.874750
+HAM HAM
+Log probability of spam: -80.184847
+Log probability of ham: -69.590517
+SPAM HAM
+Log probability of spam: -172.128180
+Log probability of ham: -173.953295
+HAM HAM
+Log probability of spam: -406.367367
+Log probability of ham: -218.087303
+HAM HAM
+Log probability of spam: -77.220233
+Log probability of ham: -67.516167
+HAM HAM
+Log probability of spam: -95.717130
+Log probability of ham: -64.301034
+HAM HAM
+Log probability of spam: -84.583984
+Log probability of ham: -58.816081
+HAM HAM
+Log probability of spam: -434.894804
+Log probability of ham: -328.997690
+HAM HAM
+Log probability of spam: -322.657698
+Log probability of ham: -280.211255
+SPAM SPAM
+Log probability of spam: -320.572782
+Log probability of ham: -353.497206
+HAM HAM
+Log probability of spam: -85.596959
+Log probability of ham: -37.661144
+HAM HAM
+Log probability of spam: -67.765290
+Log probability of ham: -50.674380
+HAM HAM
+Log probability of spam: -69.245034
+Log probability of ham: -54.232268
+HAM HAM
+Log probability of spam: -231.295189
+Log probability of ham: -145.979543
+HAM HAM
+Log probability of spam: -74.495910
+Log probability of ham: -45.576302
+HAM HAM
+Log probability of spam: -77.176685
+Log probability of ham: -51.390414
+HAM HAM
+Log probability of spam: -211.661669
+Log probability of ham: -156.290043
+HAM HAM
+Log probability of spam: -61.761044
+Log probability of ham: -41.795037
+HAM HAM
+Log probability of spam: -99.020461
+Log probability of ham: -72.803479
+HAM HAM
+Log probability of spam: -116.940634
+Log probability of ham: -109.590387
+HAM HAM
+Log probability of spam: -87.527358
+Log probability of ham: -44.352252
+HAM HAM
+Log probability of spam: -78.545510
+Log probability of ham: -48.084360
+HAM HAM
+Log probability of spam: -86.087588
+Log probability of ham: -50.003189
+HAM HAM
+Log probability of spam: -126.541048
+Log probability of ham: -101.704208
+HAM HAM
+Log probability of spam: -327.750515
+Log probability of ham: -201.418808
+HAM HAM
+Log probability of spam: -129.931082
+Log probability of ham: -78.065142
+HAM HAM
+Log probability of spam: -54.056736
+Log probability of ham: -41.396211
+HAM HAM
+Log probability of spam: -63.646686
+Log probability of ham: -45.092165
+HAM HAM
+Log probability of spam: -49.220502
+Log probability of ham: -33.137391
+HAM HAM
+Log probability of spam: -86.731012
+Log probability of ham: -75.364095
+HAM HAM
+Log probability of spam: -71.223339
+Log probability of ham: -48.827207
+HAM HAM
+Log probability of spam: -103.367427
+Log probability of ham: -50.780091
+HAM HAM
+Log probability of spam: -78.348356
+Log probability of ham: -66.492167
+HAM HAM
+Log probability of spam: -167.092186
+Log probability of ham: -128.306343
+SPAM SPAM
+Log probability of spam: -194.061892
+Log probability of ham: -242.547126
+HAM HAM
+Log probability of spam: -434.894804
+Log probability of ham: -328.997690
+HAM HAM
+Log probability of spam: -93.463270
+Log probability of ham: -48.433914
+HAM HAM
+Log probability of spam: -220.925096
+Log probability of ham: -146.330587
+HAM HAM
+Log probability of spam: -255.849985
+Log probability of ham: -198.691194
+HAM HAM
+Log probability of spam: -217.318222
+Log probability of ham: -142.609605
+HAM HAM
+Log probability of spam: -89.096133
+Log probability of ham: -75.075396
+HAM HAM
+Log probability of spam: -233.501261
+Log probability of ham: -153.559788
+HAM HAM
+Log probability of spam: -66.923775
+Log probability of ham: -34.249206
+HAM HAM
+Log probability of spam: -67.110009
+Log probability of ham: -51.067245
+HAM HAM
+Log probability of spam: -80.693935
+Log probability of ham: -48.552182
+HAM HAM
+Log probability of spam: -171.210574
+Log probability of ham: -145.643691
+HAM HAM
+Log probability of spam: -59.898905
+Log probability of ham: -26.708301
+HAM HAM
+Log probability of spam: -50.445749
+Log probability of ham: -40.743000
+HAM HAM
+Log probability of spam: -204.169717
+Log probability of ham: -146.845131
+HAM HAM
+Log probability of spam: -283.772487
+Log probability of ham: -191.453155
+HAM HAM
+Log probability of spam: -318.695982
+Log probability of ham: -245.544677
+HAM HAM
+Log probability of spam: -136.036937
+Log probability of ham: -91.151933
+HAM SPAM
+Log probability of spam: -310.226604
+Log probability of ham: -278.727561
+HAM HAM
+Log probability of spam: -541.767012
+Log probability of ham: -382.898757
+HAM HAM
+Log probability of spam: -67.510688
+Log probability of ham: -40.978276
+HAM HAM
+Log probability of spam: -230.862918
+Log probability of ham: -171.224867
+HAM HAM
+Log probability of spam: -69.901959
+Log probability of ham: -46.386338
+HAM HAM
+Log probability of spam: -73.500150
+Log probability of ham: -41.504590
+HAM HAM
+Log probability of spam: -302.884454
+Log probability of ham: -213.658680
+HAM HAM
+Log probability of spam: -73.794336
+Log probability of ham: -53.221957
+HAM HAM
+Log probability of spam: -92.545830
+Log probability of ham: -61.025383
+HAM HAM
+Log probability of spam: -129.857943
+Log probability of ham: -103.881882
+SPAM SPAM
+Log probability of spam: -145.037109
+Log probability of ham: -148.843317
+HAM HAM
+Log probability of spam: -267.241171
+Log probability of ham: -208.520630
+HAM HAM
+Log probability of spam: -91.499852
+Log probability of ham: -75.808078
+HAM HAM
+Log probability of spam: -186.085774
+Log probability of ham: -158.247869
+HAM HAM
+Log probability of spam: -207.233758
+Log probability of ham: -147.029943
+SPAM HAM
+Log probability of spam: -145.660785
+Log probability of ham: -150.266197
+HAM HAM
+Log probability of spam: -126.105297
+Log probability of ham: -79.175127
+HAM HAM
+Log probability of spam: -79.928224
+Log probability of ham: -68.025476
+HAM HAM
+Log probability of spam: -432.093689
+Log probability of ham: -232.889566
+HAM HAM
+Log probability of spam: -61.434420
+Log probability of ham: -54.951541
+HAM HAM
+Log probability of spam: -66.255472
+Log probability of ham: -44.684149
+HAM HAM
+Log probability of spam: -161.152638
+Log probability of ham: -127.423847
+HAM HAM
+Log probability of spam: -39.155031
+Log probability of ham: -32.385421
+HAM HAM
+Log probability of spam: -302.050264
+Log probability of ham: -217.865909
+SPAM SPAM
+Log probability of spam: -290.657114
+Log probability of ham: -332.360339
+HAM HAM
+Log probability of spam: -94.979450
+Log probability of ham: -71.916714
+HAM HAM
+Log probability of spam: -349.822679
+Log probability of ham: -211.301853
+HAM HAM
+Log probability of spam: -621.905418
+Log probability of ham: -456.779590
+HAM HAM
+Log probability of spam: -122.523424
+Log probability of ham: -68.482341
+HAM HAM
+Log probability of spam: -449.656597
+Log probability of ham: -314.911871
+HAM HAM
+Log probability of spam: -498.086553
+Log probability of ham: -315.218697
+HAM HAM
+Log probability of spam: -319.968448
+Log probability of ham: -214.439072
+HAM HAM
+Log probability of spam: -176.892155
+Log probability of ham: -97.638221
+HAM HAM
+Log probability of spam: -250.935895
+Log probability of ham: -173.343217
+HAM HAM
+Log probability of spam: -125.748316
+Log probability of ham: -104.376019
+HAM HAM
+Log probability of spam: -68.672678
+Log probability of ham: -33.784450
+HAM HAM
+Log probability of spam: -75.062456
+Log probability of ham: -49.162861
+HAM HAM
+Log probability of spam: -249.972584
+Log probability of ham: -124.966664
+HAM HAM
+Log probability of spam: -244.711882
+Log probability of ham: -157.097284
+HAM SPAM
+Log probability of spam: -339.070128
+Log probability of ham: -280.435278
+HAM HAM
+Log probability of spam: -112.763148
+Log probability of ham: -59.773373
+SPAM SPAM
+Log probability of spam: -154.949974
+Log probability of ham: -215.460147
+HAM HAM
+Log probability of spam: -371.229287
+Log probability of ham: -245.414502
+HAM HAM
+Log probability of spam: -141.300170
+Log probability of ham: -77.110149
+HAM HAM
+Log probability of spam: -83.054729
+Log probability of ham: -59.373709
+HAM HAM
+Log probability of spam: -69.348941
+Log probability of ham: -47.631505
+HAM HAM
+Log probability of spam: -119.112429
+Log probability of ham: -66.968081
+HAM HAM
+Log probability of spam: -209.409244
+Log probability of ham: -142.855048
+HAM HAM
+Log probability of spam: -105.013698
+Log probability of ham: -59.008855
+HAM HAM
+Log probability of spam: -89.611831
+Log probability of ham: -56.209553
+HAM HAM
+Log probability of spam: -145.530827
+Log probability of ham: -114.499209
+SPAM SPAM
+Log probability of spam: -115.686512
+Log probability of ham: -180.180727
+HAM HAM
+Log probability of spam: -345.678336
+Log probability of ham: -231.755704
+HAM HAM
+Log probability of spam: -176.830490
+Log probability of ham: -141.793905
+SPAM SPAM
+Log probability of spam: -173.959238
+Log probability of ham: -275.554698
+HAM HAM
+Log probability of spam: -63.799502
+Log probability of ham: -49.980801
+HAM HAM
+Log probability of spam: -50.952706
+Log probability of ham: -41.933076
+HAM HAM
+Log probability of spam: -95.209223
+Log probability of ham: -50.290651
+HAM HAM
+Log probability of spam: -159.823251
+Log probability of ham: -104.269088
+HAM HAM
+Log probability of spam: -134.415024
+Log probability of ham: -91.742210
+HAM HAM
+Log probability of spam: -79.356214
+Log probability of ham: -36.520032
+HAM HAM
+Log probability of spam: -171.392248
+Log probability of ham: -123.547149
+HAM HAM
+Log probability of spam: -230.891802
+Log probability of ham: -175.514120
+SPAM SPAM
+Log probability of spam: -175.998398
+Log probability of ham: -364.272370
+HAM HAM
+Log probability of spam: -743.367054
+Log probability of ham: -452.149912
+HAM HAM
+Log probability of spam: -145.677690
+Log probability of ham: -75.031184
+HAM HAM
+Log probability of spam: -164.391068
+Log probability of ham: -131.983112
+HAM HAM
+Log probability of spam: -144.491403
+Log probability of ham: -105.874987
+HAM HAM
+Log probability of spam: -193.851911
+Log probability of ham: -130.333637
+HAM HAM
+Log probability of spam: -282.114176
+Log probability of ham: -146.645067
+HAM HAM
+Log probability of spam: -189.394421
+Log probability of ham: -143.006152
+HAM HAM
+Log probability of spam: -343.319911
+Log probability of ham: -205.465686
+HAM HAM
+Log probability of spam: -86.636863
+Log probability of ham: -81.813449
+HAM HAM
+Log probability of spam: -115.176608
+Log probability of ham: -89.686895
+HAM HAM
+Log probability of spam: -170.124432
+Log probability of ham: -119.889253
+HAM HAM
+Log probability of spam: -393.329554
+Log probability of ham: -250.926285
+HAM HAM
+Log probability of spam: -133.551291
+Log probability of ham: -130.990399
+HAM HAM
+Log probability of spam: -158.323757
+Log probability of ham: -84.781421
+HAM HAM
+Log probability of spam: -225.803230
+Log probability of ham: -122.508751
+HAM HAM
+Log probability of spam: -133.887235
+Log probability of ham: -66.293520
+HAM HAM
+Log probability of spam: -51.890508
+Log probability of ham: -38.778841
+HAM HAM
+Log probability of spam: -65.761026
+Log probability of ham: -39.326514
+HAM HAM
+Log probability of spam: -91.031232
+Log probability of ham: -89.714758
+SPAM SPAM
+Log probability of spam: -187.137951
+Log probability of ham: -385.834502
+HAM HAM
+Log probability of spam: -275.074586
+Log probability of ham: -228.385752
+HAM HAM
+Log probability of spam: -98.196442
+Log probability of ham: -44.927875
+HAM HAM
+Log probability of spam: -203.691855
+Log probability of ham: -156.799277
+SPAM SPAM
+Log probability of spam: -253.269276
+Log probability of ham: -297.437148
+HAM HAM
+Log probability of spam: -166.416224
+Log probability of ham: -110.163669
+HAM HAM
+Log probability of spam: -291.854600
+Log probability of ham: -237.211275
+SPAM SPAM
+Log probability of spam: -154.247228
+Log probability of ham: -256.064543
+HAM HAM
+Log probability of spam: -83.808436
+Log probability of ham: -45.821834
+HAM HAM
+Log probability of spam: -293.299113
+Log probability of ham: -215.641556
+HAM HAM
+Log probability of spam: -69.226827
+Log probability of ham: -48.427442
+HAM HAM
+Log probability of spam: -159.893595
+Log probability of ham: -104.972929
+HAM HAM
+Log probability of spam: -97.958260
+Log probability of ham: -91.365688
+HAM HAM
+Log probability of spam: -232.777594
+Log probability of ham: -165.469402
+HAM HAM
+Log probability of spam: -49.426314
+Log probability of ham: -45.963468
+HAM HAM
+Log probability of spam: -49.909836
+Log probability of ham: -33.923347
+HAM HAM
+Log probability of spam: -166.460738
+Log probability of ham: -114.921956
+SPAM SPAM
+Log probability of spam: -154.158922
+Log probability of ham: -231.532465
+HAM HAM
+Log probability of spam: -52.660658
+Log probability of ham: -31.335572
+HAM HAM
+Log probability of spam: -151.996336
+Log probability of ham: -101.367268
+SPAM SPAM
+Log probability of spam: -241.525421
+Log probability of ham: -383.530454
+HAM HAM
+Log probability of spam: -10.623528
+Log probability of ham: -5.770221
+HAM HAM
+Log probability of spam: -178.547362
+Log probability of ham: -150.097137
+HAM HAM
+Log probability of spam: -172.653964
+Log probability of ham: -97.029630
+SPAM SPAM
+Log probability of spam: -119.385329
+Log probability of ham: -226.009980
+HAM HAM
+Log probability of spam: -85.156395
+Log probability of ham: -69.879160
+HAM HAM
+Log probability of spam: -163.805125
+Log probability of ham: -126.400910
+HAM HAM
+Log probability of spam: -163.692070
+Log probability of ham: -118.329524
+HAM HAM
+Log probability of spam: -86.028239
+Log probability of ham: -61.673540
+HAM HAM
+Log probability of spam: -127.081661
+Log probability of ham: -74.576498
+HAM HAM
+Log probability of spam: -107.638618
+Log probability of ham: -80.202637
+HAM HAM
+Log probability of spam: -42.298762
+Log probability of ham: -26.527134
+HAM HAM
+Log probability of spam: -76.252263
+Log probability of ham: -52.180875
+HAM HAM
+Log probability of spam: -407.485032
+Log probability of ham: -242.308035
+HAM HAM
+Log probability of spam: -161.825644
+Log probability of ham: -102.537820
+SPAM SPAM
+Log probability of spam: -158.144661
+Log probability of ham: -235.675803
+HAM HAM
+Log probability of spam: -249.818773
+Log probability of ham: -179.463151
+SPAM HAM
+Log probability of spam: -384.128865
+Log probability of ham: -394.473779
+SPAM SPAM
+Log probability of spam: -212.132440
+Log probability of ham: -293.455491
+HAM HAM
+Log probability of spam: -116.413699
+Log probability of ham: -89.558659
+HAM HAM
+Log probability of spam: -373.687992
+Log probability of ham: -204.861722
+HAM HAM
+Log probability of spam: -138.484572
+Log probability of ham: -91.840660
+HAM HAM
+Log probability of spam: -18.940992
+Log probability of ham: -12.899272
+HAM HAM
+Log probability of spam: -186.706074
+Log probability of ham: -120.854779
+HAM HAM
+Log probability of spam: -314.227963
+Log probability of ham: -233.428638
+HAM HAM
+Log probability of spam: -64.414627
+Log probability of ham: -31.128464
+HAM HAM
+Log probability of spam: -244.349389
+Log probability of ham: -178.906809
+HAM HAM
+Log probability of spam: -66.143108
+Log probability of ham: -53.056839
+HAM HAM
+Log probability of spam: -328.623692
+Log probability of ham: -234.325800
+HAM HAM
+Log probability of spam: -69.795652
+Log probability of ham: -55.201414
+HAM HAM
+Log probability of spam: -87.215218
+Log probability of ham: -45.454378
+HAM HAM
+Log probability of spam: -57.891215
+Log probability of ham: -50.113238
+HAM HAM
+Log probability of spam: -202.498449
+Log probability of ham: -132.910301
+HAM HAM
+Log probability of spam: -138.866738
+Log probability of ham: -103.220140
+HAM HAM
+Log probability of spam: -200.789525
+Log probability of ham: -147.372567
+HAM HAM
+Log probability of spam: -73.604703
+Log probability of ham: -57.529760
+HAM HAM
+Log probability of spam: -56.609352
+Log probability of ham: -28.679587
+HAM HAM
+Log probability of spam: -54.155507
+Log probability of ham: -22.496691
+HAM HAM
+Log probability of spam: -217.354463
+Log probability of ham: -129.353894
+HAM HAM
+Log probability of spam: -76.700114
+Log probability of ham: -47.610876
+HAM HAM
+Log probability of spam: -153.255142
+Log probability of ham: -72.818753
+HAM HAM
+Log probability of spam: -295.833505
+Log probability of ham: -257.805817
+HAM HAM
+Log probability of spam: -510.279539
+Log probability of ham: -476.891816
+HAM HAM
+Log probability of spam: -116.929072
+Log probability of ham: -88.432748
+HAM HAM
+Log probability of spam: -68.909518
+Log probability of ham: -39.467048
+HAM HAM
+Log probability of spam: -38.017615
+Log probability of ham: -19.916593
+HAM HAM
+Log probability of spam: -93.389606
+Log probability of ham: -44.624657
+HAM HAM
+Log probability of spam: -616.772634
+Log probability of ham: -381.601307
+HAM HAM
+Log probability of spam: -185.587273
+Log probability of ham: -105.985537
+HAM HAM
+Log probability of spam: -201.849346
+Log probability of ham: -106.359822
+HAM HAM
+Log probability of spam: -731.193543
+Log probability of ham: -428.737501
+HAM HAM
+Log probability of spam: -164.248404
+Log probability of ham: -111.278455
+HAM HAM
+Log probability of spam: -109.074487
+Log probability of ham: -70.897270
+HAM HAM
+Log probability of spam: -77.505145
+Log probability of ham: -33.399965
+HAM HAM
+Log probability of spam: -329.645010
+Log probability of ham: -284.541557
+HAM HAM
+Log probability of spam: -87.875904
+Log probability of ham: -63.139778
+HAM HAM
+Log probability of spam: -245.623663
+Log probability of ham: -174.360735
+HAM HAM
+Log probability of spam: -87.119765
+Log probability of ham: -51.216314
+SPAM SPAM
+Log probability of spam: -170.437694
+Log probability of ham: -231.353412
+HAM HAM
+Log probability of spam: -81.288396
+Log probability of ham: -53.095671
+HAM HAM
+Log probability of spam: -102.144084
+Log probability of ham: -67.989285
+HAM HAM
+Log probability of spam: -58.447629
+Log probability of ham: -41.473386
+HAM HAM
+Log probability of spam: -138.797290
+Log probability of ham: -88.472929
+HAM HAM
+Log probability of spam: -271.769857
+Log probability of ham: -197.339071
+HAM HAM
+Log probability of spam: -96.588880
+Log probability of ham: -82.371457
+HAM HAM
+Log probability of spam: -102.558492
+Log probability of ham: -62.059829
+HAM HAM
+Log probability of spam: -123.911994
+Log probability of ham: -61.641503
+HAM HAM
+Log probability of spam: -89.289866
+Log probability of ham: -53.592865
+HAM HAM
+Log probability of spam: -375.155201
+Log probability of ham: -212.276368
+HAM HAM
+Log probability of spam: -65.312669
+Log probability of ham: -34.075910
+HAM HAM
+Log probability of spam: -250.407335
+Log probability of ham: -167.766597
+HAM HAM
+Log probability of spam: -92.806325
+Log probability of ham: -55.869207
+HAM HAM
+Log probability of spam: -77.485112
+Log probability of ham: -64.838307
+HAM HAM
+Log probability of spam: -181.105416
+Log probability of ham: -126.483357
+HAM HAM
+Log probability of spam: -161.994684
+Log probability of ham: -120.213990
+HAM HAM
+Log probability of spam: -87.989394
+Log probability of ham: -66.788328
+SPAM SPAM
+Log probability of spam: -195.544822
+Log probability of ham: -266.187485
+HAM HAM
+Log probability of spam: -162.555706
+Log probability of ham: -108.269528
+HAM HAM
+Log probability of spam: -139.796385
+Log probability of ham: -110.677626
+HAM HAM
+Log probability of spam: -271.535933
+Log probability of ham: -195.060464
+HAM HAM
+Log probability of spam: -279.207582
+Log probability of ham: -163.302161
+SPAM SPAM
+Log probability of spam: -235.563541
+Log probability of ham: -312.017628
+HAM HAM
+Log probability of spam: -79.847011
+Log probability of ham: -43.724510
+SPAM SPAM
+Log probability of spam: -251.884060
+Log probability of ham: -390.576248
+HAM HAM
+Log probability of spam: -132.283117
+Log probability of ham: -117.128874
+HAM HAM
+Log probability of spam: -67.435863
+Log probability of ham: -46.322347
+HAM HAM
+Log probability of spam: -125.844316
+Log probability of ham: -78.046862
+HAM HAM
+Log probability of spam: -77.671258
+Log probability of ham: -52.051028
+HAM HAM
+Log probability of spam: -16.543093
+Log probability of ham: -11.153114
+HAM HAM
+Log probability of spam: -215.185419
+Log probability of ham: -151.873151
+HAM HAM
+Log probability of spam: -190.646162
+Log probability of ham: -137.970745
+SPAM SPAM
+Log probability of spam: -194.349090
+Log probability of ham: -346.866536
+HAM HAM
+Log probability of spam: -99.351469
+Log probability of ham: -63.662147
+SPAM SPAM
+Log probability of spam: -161.872101
+Log probability of ham: -374.536571
+HAM HAM
+Log probability of spam: -62.273802
+Log probability of ham: -42.556398
+HAM SPAM
+Log probability of spam: -117.458485
+Log probability of ham: -107.797822
+HAM HAM
+Log probability of spam: -315.692816
+Log probability of ham: -300.887095
+HAM HAM
+Log probability of spam: -120.479509
+Log probability of ham: -99.271079
+SPAM SPAM
+Log probability of spam: -196.395741
+Log probability of ham: -389.968582
+HAM HAM
+Log probability of spam: -415.589403
+Log probability of ham: -233.554378
+HAM HAM
+Log probability of spam: -172.751890
+Log probability of ham: -151.859157
+HAM HAM
+Log probability of spam: -497.375696
+Log probability of ham: -278.658503
+HAM HAM
+Log probability of spam: -57.478742
+Log probability of ham: -41.374685
+HAM HAM
+Log probability of spam: -38.953709
+Log probability of ham: -20.732930
+HAM HAM
+Log probability of spam: -283.172176
+Log probability of ham: -161.767988
+HAM HAM
+Log probability of spam: -623.715050
+Log probability of ham: -418.955757
+SPAM SPAM
+Log probability of spam: -256.965908
+Log probability of ham: -369.204890
+HAM HAM
+Log probability of spam: -28.056028
+Log probability of ham: -12.393900
+HAM HAM
+Log probability of spam: -82.361502
+Log probability of ham: -48.618582
+HAM HAM
+Log probability of spam: -97.214960
+Log probability of ham: -64.138911
+HAM HAM
+Log probability of spam: -114.109627
+Log probability of ham: -70.483530
+HAM HAM
+Log probability of spam: -142.589088
+Log probability of ham: -117.734897
+HAM HAM
+Log probability of spam: -78.103454
+Log probability of ham: -48.955505
+HAM HAM
+Log probability of spam: -332.537915
+Log probability of ham: -209.465209
+HAM HAM
+Log probability of spam: -326.842115
+Log probability of ham: -245.715922
+HAM HAM
+Log probability of spam: -50.517930
+Log probability of ham: -24.054433
+HAM HAM
+Log probability of spam: -113.663444
+Log probability of ham: -78.288225
+HAM HAM
+Log probability of spam: -61.267125
+Log probability of ham: -29.570372
+HAM SPAM
+Log probability of spam: -269.908609
+Log probability of ham: -265.963089
+HAM HAM
+Log probability of spam: -173.942600
+Log probability of ham: -98.563402
+SPAM SPAM
+Log probability of spam: -232.367808
+Log probability of ham: -382.559748
+HAM HAM
+Log probability of spam: -273.052626
+Log probability of ham: -186.771083
+HAM HAM
+Log probability of spam: -71.525265
+Log probability of ham: -41.885488
+HAM HAM
+Log probability of spam: -193.058157
+Log probability of ham: -128.582144
+HAM HAM
+Log probability of spam: -157.879344
+Log probability of ham: -130.095135
+HAM HAM
+Log probability of spam: -104.585938
+Log probability of ham: -61.378418
+HAM HAM
+Log probability of spam: -88.899738
+Log probability of ham: -45.829518
+HAM HAM
+Log probability of spam: -197.233523
+Log probability of ham: -109.375933
+HAM HAM
+Log probability of spam: -132.360349
+Log probability of ham: -78.969830
+HAM HAM
+Log probability of spam: -76.817259
+Log probability of ham: -44.646798
+HAM HAM
+Log probability of spam: -1033.562407
+Log probability of ham: -625.179764
+HAM HAM
+Log probability of spam: -406.334136
+Log probability of ham: -277.194770
+HAM HAM
+Log probability of spam: -98.488543
+Log probability of ham: -74.456644
+HAM HAM
+Log probability of spam: -71.893428
+Log probability of ham: -53.165369
+HAM HAM
+Log probability of spam: -72.669155
+Log probability of ham: -39.641069
+HAM HAM
+Log probability of spam: -166.453921
+Log probability of ham: -104.242311
+HAM HAM
+Log probability of spam: -102.417558
+Log probability of ham: -79.994879
+HAM HAM
+Log probability of spam: -196.326084
+Log probability of ham: -139.925322
+HAM HAM
+Log probability of spam: -149.900744
+Log probability of ham: -100.593335
+HAM HAM
+Log probability of spam: -51.637006
+Log probability of ham: -46.629756
+HAM HAM
+Log probability of spam: -183.132114
+Log probability of ham: -96.875671
+SPAM SPAM
+Log probability of spam: -197.424553
+Log probability of ham: -215.377703
+SPAM SPAM
+Log probability of spam: -188.989468
+Log probability of ham: -234.875324
+SPAM SPAM
+Log probability of spam: -145.929017
+Log probability of ham: -243.884661
+SPAM SPAM
+Log probability of spam: -179.493420
+Log probability of ham: -332.203209
+HAM HAM
+Log probability of spam: -388.106680
+Log probability of ham: -277.436748
+HAM HAM
+Log probability of spam: -98.698379
+Log probability of ham: -63.519283
+HAM HAM
+Log probability of spam: -334.173201
+Log probability of ham: -212.546008
+HAM HAM
+Log probability of spam: -54.970078
+Log probability of ham: -35.562829
+HAM HAM
+Log probability of spam: -171.087883
+Log probability of ham: -141.109407
+HAM HAM
+Log probability of spam: -59.898905
+Log probability of ham: -26.708301
+HAM HAM
+Log probability of spam: -311.770293
+Log probability of ham: -228.603390
+SPAM SPAM
+Log probability of spam: -140.432931
+Log probability of ham: -213.570159
+HAM SPAM
+Log probability of spam: -298.823991
+Log probability of ham: -281.944300
+HAM SPAM
+Log probability of spam: -263.084964
+Log probability of ham: -192.418367
+HAM HAM
+Log probability of spam: -102.978856
+Log probability of ham: -67.051938
+HAM HAM
+Log probability of spam: -48.512094
+Log probability of ham: -42.834961
+HAM SPAM
+Log probability of spam: -118.200500
+Log probability of ham: -97.823465
+SPAM SPAM
+Log probability of spam: -66.962316
+Log probability of ham: -114.788743
+HAM HAM
+Log probability of spam: -113.557021
+Log probability of ham: -77.729491
+HAM SPAM
+Log probability of spam: -319.680017
+Log probability of ham: -318.284954
+HAM HAM
+Log probability of spam: -276.975320
+Log probability of ham: -153.128538
+HAM HAM
+Log probability of spam: -173.547454
+Log probability of ham: -82.634254
+HAM HAM
+Log probability of spam: -77.230562
+Log probability of ham: -66.193148
+HAM HAM
+Log probability of spam: -61.029009
+Log probability of ham: -41.366402
+HAM HAM
+Log probability of spam: -163.827249
+Log probability of ham: -102.199035
+HAM HAM
+Log probability of spam: -39.155031
+Log probability of ham: -32.385421
+HAM HAM
+Log probability of spam: -283.540120
+Log probability of ham: -150.673350
+HAM HAM
+Log probability of spam: -208.497897
+Log probability of ham: -153.592842
+HAM HAM
+Log probability of spam: -54.574759
+Log probability of ham: -30.268560
+HAM HAM
+Log probability of spam: -55.950747
+Log probability of ham: -53.476306
+HAM HAM
+Log probability of spam: -116.691142
+Log probability of ham: -79.390917
+SPAM SPAM
+Log probability of spam: -217.526215
+Log probability of ham: -394.016283
+HAM HAM
+Log probability of spam: -110.430347
+Log probability of ham: -54.592980
+HAM HAM
+Log probability of spam: -93.018836
+Log probability of ham: -56.414650
+HAM HAM
+Log probability of spam: -134.823580
+Log probability of ham: -105.148375
+SPAM SPAM
+Log probability of spam: -194.581449
+Log probability of ham: -297.817606
+HAM HAM
+Log probability of spam: -156.002504
+Log probability of ham: -114.474876
+SPAM SPAM
+Log probability of spam: -190.838707
+Log probability of ham: -228.174479
+HAM HAM
+Log probability of spam: -56.232988
+Log probability of ham: -33.568890
+HAM HAM
+Log probability of spam: -86.407193
+Log probability of ham: -62.874300
+SPAM SPAM
+Log probability of spam: -270.925515
+Log probability of ham: -373.806571
+HAM HAM
+Log probability of spam: -211.665462
+Log probability of ham: -109.460058
+HAM HAM
+Log probability of spam: -108.049014
+Log probability of ham: -67.203046
+HAM HAM
+Log probability of spam: -136.584133
+Log probability of ham: -87.631755
+HAM HAM
+Log probability of spam: -368.876824
+Log probability of ham: -277.629374
+HAM HAM
+Log probability of spam: -159.892453
+Log probability of ham: -99.178147
+HAM HAM
+Log probability of spam: -108.049014
+Log probability of ham: -67.203046
+SPAM SPAM
+Log probability of spam: -196.645019
+Log probability of ham: -301.108402
+SPAM SPAM
+Log probability of spam: -292.739956
+Log probability of ham: -326.883761
+HAM HAM
+Log probability of spam: -337.746712
+Log probability of ham: -174.708695
+HAM HAM
+Log probability of spam: -263.899251
+Log probability of ham: -131.517102
+SPAM SPAM
+Log probability of spam: -151.958357
+Log probability of ham: -335.156982
+HAM HAM
+Log probability of spam: -52.965325
+Log probability of ham: -32.849098
+HAM HAM
+Log probability of spam: -166.981425
+Log probability of ham: -106.357797
+HAM HAM
+Log probability of spam: -356.476480
+Log probability of ham: -231.364955
+HAM HAM
+Log probability of spam: -101.979592
+Log probability of ham: -98.756089
+HAM HAM
+Log probability of spam: -71.650965
+Log probability of ham: -58.325042
+HAM HAM
+Log probability of spam: -56.877376
+Log probability of ham: -36.088879
+HAM HAM
+Log probability of spam: -154.597183
+Log probability of ham: -101.361710
+HAM HAM
+Log probability of spam: -333.188904
+Log probability of ham: -230.787650
+HAM HAM
+Log probability of spam: -824.966667
+Log probability of ham: -635.061464
+HAM HAM
+Log probability of spam: -121.114100
+Log probability of ham: -79.530360
+HAM HAM
+Log probability of spam: -68.941538
+Log probability of ham: -37.343456
+HAM HAM
+Log probability of spam: -217.821093
+Log probability of ham: -134.333386
+HAM HAM
+Log probability of spam: -42.627265
+Log probability of ham: -28.444402
+SPAM SPAM
+Log probability of spam: -177.997700
+Log probability of ham: -322.602748
+HAM HAM
+Log probability of spam: -100.363384
+Log probability of ham: -74.482329
+HAM HAM
+Log probability of spam: -112.404942
+Log probability of ham: -68.406144
+HAM HAM
+Log probability of spam: -138.783365
+Log probability of ham: -87.603385
+HAM HAM
+Log probability of spam: -94.086554
+Log probability of ham: -76.336234
+SPAM SPAM
+Log probability of spam: -262.147328
+Log probability of ham: -424.065063
+HAM HAM
+Log probability of spam: -136.180238
+Log probability of ham: -101.123442
+SPAM SPAM
+Log probability of spam: -175.295469
+Log probability of ham: -244.889456
+HAM HAM
+Log probability of spam: -177.646008
+Log probability of ham: -102.293939
+HAM HAM
+Log probability of spam: -76.684760
+Log probability of ham: -70.080422
+HAM HAM
+Log probability of spam: -264.271657
+Log probability of ham: -191.386480
+HAM HAM
+Log probability of spam: -285.787088
+Log probability of ham: -211.999409
+HAM HAM
+Log probability of spam: -42.933745
+Log probability of ham: -23.296358
+HAM HAM
+Log probability of spam: -268.172061
+Log probability of ham: -232.752981
+HAM HAM
+Log probability of spam: -232.732862
+Log probability of ham: -193.046716
+HAM HAM
+Log probability of spam: -64.773678
+Log probability of ham: -32.201849
+HAM HAM
+Log probability of spam: -89.682859
+Log probability of ham: -77.417280
+HAM HAM
+Log probability of spam: -161.049351
+Log probability of ham: -111.438298
+HAM HAM
+Log probability of spam: -133.122090
+Log probability of ham: -79.732429
+HAM HAM
+Log probability of spam: -173.233378
+Log probability of ham: -124.766252
+HAM HAM
+Log probability of spam: -49.735095
+Log probability of ham: -47.177445
+HAM HAM
+Log probability of spam: -132.444877
+Log probability of ham: -78.782463
+HAM HAM
+Log probability of spam: -273.868897
+Log probability of ham: -166.150004
+HAM HAM
+Log probability of spam: -288.201187
+Log probability of ham: -183.105731
+HAM HAM
+Log probability of spam: -78.901084
+Log probability of ham: -58.399722
+SPAM SPAM
+Log probability of spam: -225.200059
+Log probability of ham: -363.280007
+HAM HAM
+Log probability of spam: -331.148030
+Log probability of ham: -227.983452
+HAM HAM
+Log probability of spam: -265.440133
+Log probability of ham: -177.924200
+HAM HAM
+Log probability of spam: -92.095553
+Log probability of ham: -60.826568
+SPAM SPAM
+Log probability of spam: -198.154550
+Log probability of ham: -355.896132
+HAM HAM
+Log probability of spam: -245.037252
+Log probability of ham: -134.212893
+SPAM SPAM
+Log probability of spam: -169.621419
+Log probability of ham: -235.963796
+SPAM SPAM
+Log probability of spam: -249.588961
+Log probability of ham: -339.430808
+HAM HAM
+Log probability of spam: -179.601644
+Log probability of ham: -131.104352
+HAM HAM
+Log probability of spam: -73.120361
+Log probability of ham: -43.582956
+HAM HAM
+Log probability of spam: -78.276908
+Log probability of ham: -36.372014
+HAM HAM
+Log probability of spam: -47.477157
+Log probability of ham: -39.912854
+HAM HAM
+Log probability of spam: -81.957259
+Log probability of ham: -53.808981
+HAM SPAM
+Log probability of spam: -163.922826
+Log probability of ham: -143.488788
+HAM HAM
+Log probability of spam: -44.824483
+Log probability of ham: -28.440241
+HAM HAM
+Log probability of spam: -54.423802
+Log probability of ham: -42.476804
+HAM HAM
+Log probability of spam: -139.672995
+Log probability of ham: -98.540729
+HAM HAM
+Log probability of spam: -560.869624
+Log probability of ham: -399.091885
+HAM HAM
+Log probability of spam: -474.335205
+Log probability of ham: -268.013080
+HAM HAM
+Log probability of spam: -183.178409
+Log probability of ham: -143.298363
+HAM HAM
+Log probability of spam: -86.809573
+Log probability of ham: -60.441178
+HAM HAM
+Log probability of spam: -71.950364
+Log probability of ham: -37.855331
+HAM HAM
+Log probability of spam: -371.064208
+Log probability of ham: -226.957883
+SPAM SPAM
+Log probability of spam: -258.320149
+Log probability of ham: -314.785629
+HAM HAM
+Log probability of spam: -144.801940
+Log probability of ham: -129.683322
+HAM HAM
+Log probability of spam: -116.453027
+Log probability of ham: -75.186014
+HAM HAM
+Log probability of spam: -171.591313
+Log probability of ham: -89.867659
+HAM HAM
+Log probability of spam: -330.312759
+Log probability of ham: -175.597919
+HAM HAM
+Log probability of spam: -58.299635
+Log probability of ham: -35.047968
+HAM HAM
+Log probability of spam: -285.937642
+Log probability of ham: -218.241398
+HAM HAM
+Log probability of spam: -324.401002
+Log probability of ham: -202.283175
+HAM HAM
+Log probability of spam: -46.810462
+Log probability of ham: -36.474677
+HAM HAM
+Log probability of spam: -93.604461
+Log probability of ham: -60.210520
+HAM HAM
+Log probability of spam: -73.695915
+Log probability of ham: -44.681372
+HAM HAM
+Log probability of spam: -471.140518
+Log probability of ham: -347.559833
+HAM HAM
+Log probability of spam: -154.141423
+Log probability of ham: -93.797559
+SPAM SPAM
+Log probability of spam: -202.679665
+Log probability of ham: -302.955534
+HAM HAM
+Log probability of spam: -60.621905
+Log probability of ham: -50.225966
+SPAM SPAM
+Log probability of spam: -165.912005
+Log probability of ham: -347.243842
+HAM HAM
+Log probability of spam: -141.328248
+Log probability of ham: -86.514587
+HAM HAM
+Log probability of spam: -118.544239
+Log probability of ham: -75.804757
+HAM HAM
+Log probability of spam: -352.813832
+Log probability of ham: -209.952071
+HAM HAM
+Log probability of spam: -134.798477
+Log probability of ham: -101.064946
+HAM HAM
+Log probability of spam: -272.160920
+Log probability of ham: -168.418473
+HAM HAM
+Log probability of spam: -57.118448
+Log probability of ham: -39.224299
+HAM HAM
+Log probability of spam: -72.281161
+Log probability of ham: -32.279900
+HAM HAM
+Log probability of spam: -86.478695
+Log probability of ham: -72.174138
+SPAM SPAM
+Log probability of spam: -217.305949
+Log probability of ham: -406.055310
+HAM HAM
+Log probability of spam: -83.176467
+Log probability of ham: -52.105994
+HAM HAM
+Log probability of spam: -65.117596
+Log probability of ham: -46.374132
+HAM HAM
+Log probability of spam: -100.737374
+Log probability of ham: -79.528703
+HAM HAM
+Log probability of spam: -451.951372
+Log probability of ham: -304.888821
+HAM HAM
+Log probability of spam: -137.839293
+Log probability of ham: -76.704359
+HAM HAM
+Log probability of spam: -189.670689
+Log probability of ham: -131.412821
+HAM HAM
+Log probability of spam: -317.676701
+Log probability of ham: -248.961962
+HAM HAM
+Log probability of spam: -109.619673
+Log probability of ham: -64.747356
+SPAM HAM
+Log probability of spam: -141.401586
+Log probability of ham: -146.640459
+HAM HAM
+Log probability of spam: -53.056901
+Log probability of ham: -39.414844
+HAM HAM
+Log probability of spam: -126.360821
+Log probability of ham: -78.979464
+HAM HAM
+Log probability of spam: -46.571786
+Log probability of ham: -45.438687
+HAM HAM
+Log probability of spam: -124.865949
+Log probability of ham: -85.183266
+HAM HAM
+Log probability of spam: -313.914246
+Log probability of ham: -215.420006
+HAM HAM
+Log probability of spam: -129.355169
+Log probability of ham: -96.073298
+HAM HAM
+Log probability of spam: -297.257671
+Log probability of ham: -254.965970
+HAM HAM
+Log probability of spam: -78.171805
+Log probability of ham: -61.887803
+HAM HAM
+Log probability of spam: -136.398548
+Log probability of ham: -89.624078
+HAM SPAM
+Log probability of spam: -225.915931
+Log probability of ham: -219.953053
+HAM HAM
+Log probability of spam: -147.357135
+Log probability of ham: -104.226019
+HAM HAM
+Log probability of spam: -78.654165
+Log probability of ham: -50.098534
+HAM HAM
+Log probability of spam: -165.994731
+Log probability of ham: -90.810312
+SPAM SPAM
+Log probability of spam: -226.994657
+Log probability of ham: -336.022973
+HAM HAM
+Log probability of spam: -275.621478
+Log probability of ham: -220.315550
+HAM HAM
+Log probability of spam: -79.397101
+Log probability of ham: -58.701298
+SPAM SPAM
+Log probability of spam: -254.123496
+Log probability of ham: -263.898846
+HAM HAM
+Log probability of spam: -78.008859
+Log probability of ham: -53.014301
+HAM HAM
+Log probability of spam: -154.414535
+Log probability of ham: -117.656764
+HAM HAM
+Log probability of spam: -205.240229
+Log probability of ham: -155.216741
+HAM HAM
+Log probability of spam: -108.415710
+Log probability of ham: -65.149671
+HAM HAM
+Log probability of spam: -216.359671
+Log probability of ham: -151.547097
+HAM HAM
+Log probability of spam: -70.015165
+Log probability of ham: -45.970683
+HAM HAM
+Log probability of spam: -99.898744
+Log probability of ham: -67.382392
+HAM HAM
+Log probability of spam: -207.367501
+Log probability of ham: -166.344916
+HAM HAM
+Log probability of spam: -186.759301
+Log probability of ham: -109.501338
+HAM HAM
+Log probability of spam: -130.085735
+Log probability of ham: -92.272132
+HAM HAM
+Log probability of spam: -171.718572
+Log probability of ham: -116.926958
+HAM HAM
+Log probability of spam: -169.832381
+Log probability of ham: -70.962303
+HAM HAM
+Log probability of spam: -229.570611
+Log probability of ham: -146.661087
+SPAM SPAM
+Log probability of spam: -220.633134
+Log probability of ham: -254.929387
+HAM HAM
+Log probability of spam: -209.593318
+Log probability of ham: -171.177832
+HAM HAM
+Log probability of spam: -213.406842
+Log probability of ham: -151.827199
+HAM HAM
+Log probability of spam: -169.560527
+Log probability of ham: -80.930833
+HAM HAM
+Log probability of spam: -329.506351
+Log probability of ham: -224.291478
+HAM HAM
+Log probability of spam: -103.881789
+Log probability of ham: -69.458898
+SPAM SPAM
+Log probability of spam: -197.441318
+Log probability of ham: -334.205749
+SPAM SPAM
+Log probability of spam: -185.588731
+Log probability of ham: -369.385810
+HAM HAM
+Log probability of spam: -153.391588
+Log probability of ham: -87.361164
+HAM HAM
+Log probability of spam: -259.997189
+Log probability of ham: -173.401484
+HAM HAM
+Log probability of spam: -198.870065
+Log probability of ham: -139.122733
+HAM HAM
+Log probability of spam: -207.277439
+Log probability of ham: -149.232041
+SPAM SPAM
+Log probability of spam: -203.388173
+Log probability of ham: -339.428742
+SPAM SPAM
+Log probability of spam: -186.556118
+Log probability of ham: -364.256389
+HAM HAM
+Log probability of spam: -1291.161616
+Log probability of ham: -942.978033
+SPAM SPAM
+Log probability of spam: -204.413765
+Log probability of ham: -365.071601
+SPAM SPAM
+Log probability of spam: -296.033349
+Log probability of ham: -298.796229
+HAM HAM
+Log probability of spam: -140.301216
+Log probability of ham: -105.199029
+HAM HAM
+Log probability of spam: -108.364307
+Log probability of ham: -73.594798
+HAM HAM
+Log probability of spam: -167.858369
+Log probability of ham: -115.853884
+SPAM SPAM
+Log probability of spam: -287.594817
+Log probability of ham: -294.310290
+SPAM HAM
+Log probability of spam: -209.608856
+Log probability of ham: -216.676100
+HAM HAM
+Log probability of spam: -46.501578
+Log probability of ham: -38.352598
+HAM HAM
+Log probability of spam: -294.769137
+Log probability of ham: -236.044374
+HAM HAM
+Log probability of spam: -297.654159
+Log probability of ham: -189.739979
+SPAM SPAM
+Log probability of spam: -326.414243
+Log probability of ham: -472.148065
+HAM HAM
+Log probability of spam: -99.277728
+Log probability of ham: -85.115730
+HAM HAM
+Log probability of spam: -153.251749
+Log probability of ham: -122.101207
+HAM HAM
+Log probability of spam: -351.682815
+Log probability of ham: -247.122459
+HAM HAM
+Log probability of spam: -207.428608
+Log probability of ham: -132.243088
+HAM HAM
+Log probability of spam: -210.833049
+Log probability of ham: -138.231277
+HAM HAM
+Log probability of spam: -276.806050
+Log probability of ham: -135.870322
+HAM HAM
+Log probability of spam: -103.571485
+Log probability of ham: -52.253746
+SPAM SPAM
+Log probability of spam: -236.998877
+Log probability of ham: -341.879803
+HAM HAM
+Log probability of spam: -258.527361
+Log probability of ham: -159.979730
+SPAM SPAM
+Log probability of spam: -204.163086
+Log probability of ham: -354.306405
+HAM HAM
+Log probability of spam: -87.497147
+Log probability of ham: -59.889490
+SPAM SPAM
+Log probability of spam: -233.311644
+Log probability of ham: -379.822380
+HAM HAM
+Log probability of spam: -335.867266
+Log probability of ham: -230.013776
+HAM HAM
+Log probability of spam: -197.923761
+Log probability of ham: -120.599801
+HAM HAM
+Log probability of spam: -286.686905
+Log probability of ham: -210.349369
+HAM HAM
+Log probability of spam: -276.824805
+Log probability of ham: -199.289017
+HAM HAM
+Log probability of spam: -71.256722
+Log probability of ham: -50.763450
+HAM HAM
+Log probability of spam: -240.147706
+Log probability of ham: -137.833080
+HAM HAM
+Log probability of spam: -205.550321
+Log probability of ham: -124.709195
+SPAM SPAM
+Log probability of spam: -180.133938
+Log probability of ham: -281.740432
+HAM HAM
+Log probability of spam: -136.054932
+Log probability of ham: -93.437946
+HAM HAM
+Log probability of spam: -150.390344
+Log probability of ham: -110.992871
+HAM HAM
+Log probability of spam: -310.529538
+Log probability of ham: -186.710733
+HAM HAM
+Log probability of spam: -110.553036
+Log probability of ham: -66.002933
+SPAM SPAM
+Log probability of spam: -198.898048
+Log probability of ham: -281.479249
+HAM HAM
+Log probability of spam: -108.117966
+Log probability of ham: -87.748378
+HAM HAM
+Log probability of spam: -163.643540
+Log probability of ham: -96.078288
+The classification accuracy on testing set is: 0.979391
+

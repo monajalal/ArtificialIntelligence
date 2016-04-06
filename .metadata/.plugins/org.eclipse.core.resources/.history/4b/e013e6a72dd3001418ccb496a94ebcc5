@@ -1,0 +1,56 @@
+import java.awt.List;
+import java.util.ArrayList;
+import java.util.EmptyStackException;
+import java.util.Iterator;
+import java.util.Queue;
+
+
+public class findingStudent {
+	public static <E> boolean findMatch(SimpleQueue<E> myQ, SimpleStack<E> myS) {
+		
+		int numOfmyQ= myQ.size();
+		int numOfmyS= myS.size();
+		
+		if (myQ==null||myS==null){
+		    throw new IllegalArgumentException();
+		}
+		
+		while (myQ.isEmpty()||myS.isEmpty()){
+		    return false;
+		}
+		
+		while( (!myQ.isEmpty())&&(!myS.isEmpty())){
+		
+		ArrayList<E> arrayList1 = new ArrayList<E>();
+		ArrayList<E> arrayList2 = new ArrayList<E>();
+		
+		for (int i=0; i<numOfmyS;i++){
+		E sContent=myS.pop();
+		arrayList1.add(i,sContent);
+		}
+		
+		for (int i =0;i<numOfmyQ; i++){
+		E qContent=myQ.dequeue();
+		arrayList2.add(i,qContent);
+		}
+		
+		for (int i=0; i<numOfmyS;i++){
+		    for (int j =0; j<numOfmyQ; j++){
+		    if (arrayList1[i]==arrayList2[j]){
+		        for (int k=0;k<numOfmyS;k++){
+		             myS.push(arrayList[k])
+		        }
+		        for (int l=0;l<numOfmyQ;l++){
+		            myQ.enqueue(arrayList2[l]);
+		        }
+		        return true;
+		     }
+		     }
+		}
+		return false;
+		}
+
+                    
+        
+}
+                                                                                     

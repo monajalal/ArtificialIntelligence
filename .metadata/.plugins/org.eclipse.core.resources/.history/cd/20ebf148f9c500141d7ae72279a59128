@@ -1,0 +1,47 @@
+
+public class findingStudent {
+	public static <E> boolean findMatch(SimpleQueue<E> myQ, SimpleStack<E> myS) {
+		// If myQ or myS is null, throw an IllegalArgumentException.
+		  if(myQ.equals(null) || myS.equals(null)) {
+		    throw new IllegalArgumentException;
+		  }
+		// If myQ or myS is empty, return false.
+		  if(myQ.isEmpty() || myS.isEmpty()){
+		    return false;
+		  }
+		// Otherwise return true if and only if any object in myQ is also in myS.
+		// When the method finishes, the contents of myQ and myS should be the same as
+		// in they were originally.
+
+		  SimpleQueue<E> copyQ = new SimpleQueue<E>();
+		  SimpleStack<E> copyS = new SimpleStack<E>();
+
+		  boolean found = false;
+		  E itemS;
+		  E itemQ;
+
+		  E item;
+		while(!myS.isEmpty()){
+		    itemS = myS.pop();
+		    copyS.push(item);
+		    while(!myQ.isEmpty()){
+		      itemQ = myQ.dequeue();
+		      copyQ.enqueue(item);
+		      if(itemS == itemQ){
+		        found = true;
+		      }
+		    }
+		    while(!copyQ.isEmpty()){
+		      itemQ = copyQ.dequeue();
+		      myQ.enqueue(item);
+		    }
+		  }
+		  while(!copyS.isEmpty()){
+		    itemS = copyS.pop();
+		    myS.push(item);
+		  }
+		  return found;
+		}
+		                                                                                                                                                                   52,1          Bot
+
+}

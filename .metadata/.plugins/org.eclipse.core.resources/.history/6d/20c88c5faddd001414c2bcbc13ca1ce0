@@ -1,0 +1,202 @@
+///////////////////////////////////////////////////////////////////////////////
+//                   ALL STUDENTS COMPLETE THESE SECTIONS
+// Main Class File:  VersionControlApp.java
+// File:             SimpleQueue.java
+// Semester:         CS367 Spring 2015
+//
+// Author:           Haylee Monteiro
+// CS Login:         haylee
+// Lecturer's Name:  Jim Skrentny
+// Lab Section:      -
+//
+////////////////////////////////////////////////////////////////////////////////
+
+
+
+public class SimpleQueue<E> implements QueueADT<E>
+{
+	//Data Fields
+	private E[] items;
+	private int numItems;
+	private int frontIndex;
+	private int rearIndex;
+	
+	//Constants
+	private static final int INITSIZE = 10;
+	
+	
+	
+	//Constructor
+	/**
+	 * Constructs a new CircularArrayQueue creating the items array with initial
+	 * size 10 and setting numItems to 0, and front and rear indices to 0.
+	 */
+	public SimpleQueue()
+	{
+		items = (E[]) new Object[INITSIZE];
+		frontIndex = -1;
+		rearIndex = -1;
+		numItems = 0;
+	}
+	
+	
+	//Methods
+	 /**
+     * Checks if the queue is empty.
+     * @return true if queue is empty; otherwise false.
+     */
+    public boolean isEmpty()
+    {
+    	if( numItems == 0 )
+    		return true;
+    	else 
+    		return false;
+    }
+
+    
+    
+    /**
+     * Removes and returns the front item of the queue.
+     * @return the front item of the queue.
+     * @throws EmptyQueueException if the queue is empty.
+     */
+    public E dequeue() throws EmptyQueueException
+    {
+    	if( numItems == 0 )
+    		throw new EmptyQueueException();
+    	
+    	E temp = items[frontIndex];
+    	numItems--;
+    	frontIndex = advanceIndex( frontIndex );
+    	if( numItems == 0 )
+    		frontIndex = rearIndex = -1;
+    	
+    	return temp;
+    }
+
+
+    
+    /**
+     * Adds an item to the rear of the queue.
+     * @param item the item to add to the queue.
+     * @throws IllegalArgumentException if item is null.
+     */
+    public void enqueue(E item)
+    {
+    	if( item == null )
+    		throw new IllegalArgumentException();
+    	
+    	if( numItems == items.length )
+    		expand();
+    	if( frontIndex == -1 )
+    		frontIndex = 0;
+    	
+    	rearIndex = advanceIndex( rearIndex );
+    	
+    	items[rearIndex] = item;
+    	numItems++;
+    }
+
+    
+    
+    /**
+     * Returns (but does not remove) the front item of the queue.
+     * @return the front item of the queue.
+     * @throws EmptyQueueException if the queue is empty.
+     */
+    public E peek() throws EmptyQueueException
+    {
+    	if( numItems == 0 )
+    		throw new EmptyQueueException();
+    	
+    	 return items[frontIndex];
+    }
+    
+    
+    
+    /**
+     * Returns the size of the queue.
+     * @return the size of the queue
+     */
+    public int size()
+    {
+    	return numItems;
+    }
+
+    
+    
+    /**
+     * Returns a string representation of the queue (for printing).
+     * @return a string representation of the queue.
+     */
+    public String toString()
+    {
+    	String s = "";
+    	if( numItems == 0 )
+    		return s;
+    	
+    	if( frontIndex <= rearIndex )
+    		for( int i = frontIndex ; i <= rearIndex ; i++ )
+    		{
+    			s += items[i].toString();
+    			s += "\n";
+    		}
+    	else
+    	{
+    		for( int i = frontIndex ; i < items.length ; i++ )
+    		{
+    			s += items[i].toString();
+    			s += "\n";
+    		}
+    		for( int i = 0; i <= rearIndex ; i++ )
+    		{
+        		s += items[i].toString();
+        		s += "\n";
+    		}
+    	}
+    	return s;
+    }
+    
+    
+    
+    /**
+     * Advance the index passed as a parameter. If it is the last index of the 
+     * array, new index returned is 0, otherwise next index is returned.
+     * @param index current index
+     * @return advanced index
+     */
+    private int advanceIndex( int index )
+    {
+    	if( index == items.length-1 )
+    		return 0;
+    	else 
+    		return index+1;
+    }
+    
+    
+    
+    /**
+     * Doubles the length of the items array
+     * 
+     */
+    private void expand()
+    {
+    	//Create new array of double length
+    	E[] temp = (E[]) new Object[2*items.length];
+    	
+    	//Copy elements from items to new array in order from front to rear
+    	if( frontIndex <= rearIndex )
+    		System.arraycopy( items, frontIndex, temp, 0, rearIndex-frontIndex+1);
+    	else
+    	{
+    		System.arraycopy( items, frontIndex, temp, 0, items.length-frontIndex);
+    		System.arraycopy( items, 0, temp, items.length-frontIndex, rearIndex+1 );
+    	}
+    	        
+        items = temp;
+        
+        //Sets new front and rear positions
+        frontIndex = 0;
+        rearIndex = numItems-1;
+    }
+}

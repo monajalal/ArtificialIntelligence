@@ -1,0 +1,43 @@
+import java.util.ArrayList;
+import java.util.EmptyStackException;
+import java.util.Queue;
+
+
+public class findingStudent {
+	public  <E> boolean findMatch(SimpleQueue<E> myQ, SimpleStack<E> myS) throws IllegalArgumentException{
+        ArrayList<E> storage = new ArrayList<E>();
+        ArrayList<E> stackStorage = new ArrayList<E>();
+        boolean overlap = false;
+// If myQ or myS is null, throw an IllegalArgumentException.
+        if (myQ == null || myS == null){
+                throw new IllegalArgumentException();
+        }
+// If myQ or myS is empty, return false.
+        if ( myQ.isEmpty() || myS.isEmpty()){
+                return false;
+        }
+// Otherwise return true if and only if any object in myQ is also in myS.
+        while (!SimpleQueue.isEmpty()){
+                storage.Add(SimpleQueue.dequeue();
+        }
+        while (!SimpleStack.isEmpty){
+                for (int i = 0; i < storage; i++){
+                        if (storage.get(i) == SimpleStack.peek()){
+                                overlap = true;
+                        }
+                        stackStorage.add(SimpleStack.pop());
+                {
+        }
+// When the method finishes, the contents of myQ and myS should be the same as
+// in they were originally.
+        for(int i = 0; i < storage.size(); i++){
+                SimpleQueue.enqueue(storage.remove(i));
+        }
+        for(int i = stackStorage.size()-1; i >= 0;  i++){
+                SimpleStack.push(stackStorage.remove(i));
+        }
+        return overlap;
+                }
+
+                                               
+}

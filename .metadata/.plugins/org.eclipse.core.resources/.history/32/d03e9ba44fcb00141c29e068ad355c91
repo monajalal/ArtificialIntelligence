@@ -1,0 +1,57 @@
+import java.awt.List;
+import java.util.ArrayList;
+import java.util.EmptyStackException;
+import java.util.Iterator;
+import java.util.Queue;
+
+
+public class findingStudent {
+	public static <E> boolean findMatch(SimpleQueue<E> myQ, SimpleStack<E> myS) {
+        // throw exception for null arguments
+        if(myQ == null || myS == null)
+                throw new IllegalArgumentException();
+
+        // return false for empty stacks and queues
+        if(myQ.isEmpty() || myS.isEmpty())
+                return false;
+
+        boolean result = false;
+
+        // temporary stack to hold items pop'd in next while loop
+        SimpleStack<E> holdingStack = new SimpleStack<E>();
+
+        // run all the comparisons and hold each pop'd or dequeue'd
+        // item in a temporary stack or queue
+        while(!myS.isEmpty()) {
+                E currS = myS.pop();
+
+                // create a new queue to hold the items you empty from myQ after each
+                // iteration of the next while loop
+                SimpleQueue<E> holdingQueue = new SimpleQueue<E>();
+
+                while(!myQ.isEmpty()) {
+                        E currQ = myQ.dequeue();
+
+                        if(currS == currQ)
+                                result = true;
+
+                        holdingQueue.enqueue(currQ);
+                }
+
+                // repoint myQ to holdingQueue because Queues are FIFO
+                myQ = holdingQueue;
+                holdingStack.push(currS);
+        }
+
+        // empty the upside down stack back into the original
+        while(!holdingStack.isEmpty())
+                myS.push(holdingStack.pop());
+
+        return result;
+}
+                                                                                                                                                                   66,1          Bot
+}
+}
+                                                                                                                                                                  
+
+
